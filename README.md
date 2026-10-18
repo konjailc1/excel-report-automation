@@ -11,6 +11,7 @@ This project builds that workbook in Python. Pandas calculates the totals and pi
 ## Features
 
 - **Summary** — KPI cards for total revenue, orders (product lines), average order value, and week-over-week revenue change. Increases are green and decreases are red.
+- **Bilingual commentary** — under those tables, Vietnamese (`Nhận xét`) and English blocks are written from the same figures: revenue and the week-over-week change, the strongest and weakest region, the top category and product, the average-order trend, and a short recommendation. Increase and decrease words are green and red.
 - **By Region** and **By Category** — revenue by week from `pandas.pivot_table`, with a total row and a total column.
 - **Weekly Trend** — a line chart of revenue by week, and a bar chart of the top 10 products in the selected week.
 - **Raw Data** — the rows behind the report as an Excel Table with filters and a frozen header.
@@ -18,9 +19,7 @@ This project builds that workbook in Python. Pandas calculates the totals and pi
 
 ## Screenshot
 
-> **Placeholder.** Open `sample_output/weekly_report_week8.xlsx`, capture the Summary sheet, and add it here:
->
-> `![Summary sheet](sample_output/screenshot.png)`
+![Summary sheet with bilingual commentary](sample_output/screenshot.png)
 
 ## How to run
 

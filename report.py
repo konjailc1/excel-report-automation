@@ -20,6 +20,8 @@ from pathlib import Path
 
 import pandas as pd
 from openpyxl import Workbook
+from openpyxl.cell.rich_text import CellRichText, TextBlock
+from openpyxl.cell.text import InlineFont
 from openpyxl.chart import BarChart, LineChart, Reference
 from openpyxl.chart.marker import Marker
 from openpyxl.formatting.rule import FormulaRule
@@ -63,6 +65,13 @@ BAD_FILL_COLOR = "FFC7CE"
 BAD_FONT_COLOR = "9C0006"
 
 CARD_FILLS = ["D6EAF8", "E8F6EF", "FDEBD0", "F5EEF8"]
+COMMENT_FILL_COLOR = "F4F8FB"
+
+# Words that change color in the commentary. The figures next to them are shared.
+CHANGE_WORDS = {
+    "en": {"up": "increased", "down": "decreased", "flat": "unchanged"},
+    "vi": {"up": "tăng", "down": "giảm", "flat": "không đổi"},
+}
 
 
 def _font(size: int = 11, bold: bool = False, color: str = INK) -> Font:
@@ -299,6 +308,402 @@ def top_products(sales: pd.DataFrame, week: int, limit: int = 10) -> pd.DataFram
     return grouped.reset_index(drop=True)
 
 
+def _vnd_text(amount: int) -> str:
+    """Format dong with thousands separators and no decimals (#,##0)."""
+    return f"{int(amount):,} VND"
+
+
+def _pct_text(value: float) -> str:
+    """Format a ratio as a percent with one decimal, such as 66.5%."""
+    return f"{abs(float(value)):.1%}"
+
+
+def _direction(change: float | None) -> str | None:
+    """Classify a percent change as up, down, flat, or missing."""
+    if change is None:
+        return None
+    if change > 0:
+        return "up"
+    if change < 0:
+        return "down"
+    return "flat"
+
+
+def _commentary_facts(df: pd.DataFrame, week: int) -> dict:
+    """Calculate every figure used in the commentary.
+
+    Build this once per language. The strings here are the only place numbers
+    are formatted, so Vietnamese and English cannot disagree.
+    """
+    week = int(week)
+    kpis = compute_kpis(df, week)
+    regions = revenue_by_region(df, week)
+    current = df.loc[df["week"] == week]
+
+    ranked = regions.sort_values(["revenue", "region"], ascending=[False, True])
+    best = ranked.iloc[0]
+    weak = ranked.iloc[-1]
+    revenue = int(kpis["revenue"])
+
+    categories = (
+        current.groupby("product_category", as_index=False)["revenue"]
+        .sum()
+        .sort_values(["revenue", "product_category"], ascending=[False, True])
+    )
+    top_category = categories.iloc[0]
+    category_revenue = int(top_category["revenue"])
+    category_share = (category_revenue / revenue) if revenue else 0
+
+    product = top_products(df, week, limit=1).iloc[0]
+    product_revenue = int(product["revenue"])
+    best_share = float(best["share"])
+
+    return {
+        "week": week,
+        "previous_week": None if kpis["previous_revenue"] is None else week - 1,
+        "revenue_text": _vnd_text(revenue),
+        "wow_direction": _direction(kpis["wow_change"]),
+        "wow_pct": None if kpis["wow_change"] is None else _pct_text(kpis["wow_change"]),
+        "best_region": str(best["region"]),
+        "best_revenue_text": _vnd_text(best["revenue"]),
+        "best_share_text": _pct_text(best_share),
+        "best_share": best_share,
+        "weak_region": str(weak["region"]),
+        "weak_revenue_text": _vnd_text(weak["revenue"]),
+        "weak_share_text": _pct_text(weak["share"]),
+        "region_count": int(len(regions)),
+        "regions_level": int(best["revenue"]) == int(weak["revenue"]),
+        "top_category": str(top_category["product_category"]),
+        "top_category_revenue_text": _vnd_text(category_revenue),
+        "top_category_share_text": _pct_text(category_share),
+        "top_product": str(product["product"]),
+        "top_product_revenue_text": _vnd_text(product_revenue),
+        "aov_text": _vnd_text(kpis["avg_order_value"]),
+        "previous_aov_text": None
+        if kpis["previous_avg_order_value"] is None
+        else _vnd_text(kpis["previous_avg_order_value"]),
+        "aov_direction": _direction(kpis["avg_order_value_change"]),
+        "aov_pct": None
+        if kpis["avg_order_value_change"] is None
+        else _pct_text(kpis["avg_order_value_change"]),
+    }
+
+
+def _change_span(direction: str, percent: str | None, lang: str) -> tuple[str, str]:
+    """Return the increase/decrease words and the tone used to color them."""
+    word = CHANGE_WORDS[lang][direction]
+    if direction == "flat" or not percent:
+        return word, "text"
+    return f"{word} {percent}", direction
+
+
+def _recommendation_kind(facts: dict) -> str:
+    """Pick one recommendation from the same figures both languages use."""
+    level = facts["regions_level"] or facts["region_count"] == 1
+    if facts["wow_direction"] is None:
+        return "baseline_single" if level else "baseline"
+    if facts["wow_direction"] == "down":
+        return "recover_single" if level else "recover"
+    if facts["aov_direction"] == "down":
+        return "basket"
+    if not level and facts["best_share"] >= 0.45:
+        return "rebalance"
+    return "restock"
+
+
+def _bullet(*parts: tuple[str, str]) -> list[tuple[str, str]]:
+    """One commentary line. Each part is (text, tone). Tone is text, up, or down."""
+    return [("• ", "text"), *parts]
+
+
+def _commentary_en(facts: dict) -> list[list[tuple[str, str]]]:
+    """Five English bullets. Numbers are read from `facts`, not typed in."""
+    week = facts["week"]
+    previous = facts["previous_week"]
+    bullets = []
+
+    if facts["wow_direction"] is None:
+        bullets.append(_bullet((
+            f"Week {week} revenue was {facts['revenue_text']}. "
+            "There is no earlier week to compare.",
+            "text",
+        )))
+    elif facts["wow_direction"] == "flat":
+        bullets.append(_bullet((
+            f"Week {week} revenue was {facts['revenue_text']}. "
+            f"It was unchanged from week {previous}.",
+            "text",
+        )))
+    else:
+        change, tone = _change_span(facts["wow_direction"], facts["wow_pct"], "en")
+        bullets.append(_bullet(
+            (f"Week {week} revenue was {facts['revenue_text']}. It ", "text"),
+            (change, tone),
+            (f" from week {previous}.", "text"),
+        ))
+
+    if facts["region_count"] == 1:
+        bullets.append(_bullet((
+            f"{facts['best_region']} was the only region with sales, at "
+            f"{facts['best_revenue_text']} ({facts['best_share_text']} of revenue).",
+            "text",
+        )))
+    elif facts["regions_level"]:
+        bullets.append(_bullet((
+            "Revenue was level across regions. The high and the low were both "
+            f"{facts['best_revenue_text']} ({facts['best_share_text']} of revenue).",
+            "text",
+        )))
+    else:
+        bullets.append(_bullet((
+            f"{facts['best_region']} led with {facts['best_revenue_text']} "
+            f"({facts['best_share_text']} of revenue). "
+            f"{facts['weak_region']} was weakest at {facts['weak_revenue_text']} "
+            f"({facts['weak_share_text']} of revenue).",
+            "text",
+        )))
+
+    bullets.append(_bullet((
+        f"Top category was {facts['top_category']} at {facts['top_category_revenue_text']} "
+        f"({facts['top_category_share_text']} of revenue). "
+        f"Top product was {facts['top_product']} at {facts['top_product_revenue_text']}.",
+        "text",
+    )))
+
+    if facts["aov_direction"] is None:
+        bullets.append(_bullet((
+            f"Average order value was {facts['aov_text']}. "
+            "This is the first week, so there is no trend yet.",
+            "text",
+        )))
+    elif facts["aov_direction"] == "flat":
+        bullets.append(_bullet((
+            f"Average order value was {facts['aov_text']}. "
+            f"It was unchanged from {facts['previous_aov_text']} in week {previous}.",
+            "text",
+        )))
+    else:
+        change, tone = _change_span(facts["aov_direction"], facts["aov_pct"], "en")
+        bullets.append(_bullet(
+            (f"Average order value was {facts['aov_text']}. It ", "text"),
+            (change, tone),
+            (f" from {facts['previous_aov_text']} in week {previous}.", "text"),
+        ))
+
+    kind = _recommendation_kind(facts)
+    if kind == "baseline":
+        text = (
+            f"Treat week {week} as the baseline. Next week, compare "
+            f"{facts['weak_region']} ({facts['weak_share_text']}) with "
+            f"{facts['best_region']} ({facts['best_share_text']})."
+        )
+        bullets.append(_bullet((text, "text")))
+    elif kind == "baseline_single":
+        text = (
+            f"Treat week {week} as the baseline. Next week, watch whether "
+            f"{facts['top_product']} stays the best seller."
+        )
+        bullets.append(_bullet((text, "text")))
+    elif kind == "recover":
+        change, tone = _change_span("down", facts["wow_pct"], "en")
+        bullets.append(_bullet(
+            ("Revenue ", "text"),
+            (change, tone),
+            (
+                f". Check stock and staffing in {facts['weak_region']} "
+                f"({facts['weak_share_text']}) and feature {facts['top_product']} there.",
+                "text",
+            ),
+        ))
+    elif kind == "recover_single":
+        change, tone = _change_span("down", facts["wow_pct"], "en")
+        bullets.append(_bullet(
+            ("Revenue ", "text"),
+            (change, tone),
+            (
+                f". Check stock of {facts['top_category']}, and give "
+                f"{facts['top_product']} a more visible spot.",
+                "text",
+            ),
+        ))
+    elif kind == "basket":
+        change, tone = _change_span("down", facts["aov_pct"], "en")
+        bullets.append(_bullet(
+            ("Average order value ", "text"),
+            (change, tone),
+            (
+                f". Pair {facts['top_product']} with another {facts['top_category']} "
+                "item to bring the basket back up.",
+                "text",
+            ),
+        ))
+    elif kind == "rebalance":
+        bullets.append(_bullet((
+            f"{facts['best_region']} already accounts for {facts['best_share_text']} of revenue. "
+            f"Put the next promotion in {facts['weak_region']} ({facts['weak_share_text']}) "
+            "so sales are less concentrated.",
+            "text",
+        )))
+    else:
+        bullets.append(_bullet((
+            f"Restock {facts['top_product']} in {facts['best_region']}. "
+            "That product is the best seller, and that region leads the week.",
+            "text",
+        )))
+    return bullets
+
+
+def _commentary_vi(facts: dict) -> list[list[tuple[str, str]]]:
+    """Five Vietnamese bullets. Numbers are the same strings as the English ones."""
+    week = facts["week"]
+    previous = facts["previous_week"]
+    bullets = []
+
+    if facts["wow_direction"] is None:
+        bullets.append(_bullet((
+            f"Doanh thu tuần {week} đạt {facts['revenue_text']}. "
+            "Chưa có tuần trước để so sánh.",
+            "text",
+        )))
+    else:
+        change, tone = _change_span(facts["wow_direction"], facts["wow_pct"], "vi")
+        bullets.append(_bullet(
+            (f"Doanh thu tuần {week} đạt {facts['revenue_text']}, ", "text"),
+            (change, tone),
+            (f" so với tuần {previous}.", "text"),
+        ))
+
+    if facts["region_count"] == 1:
+        bullets.append(_bullet((
+            f"{facts['best_region']} là miền duy nhất có doanh thu, đạt "
+            f"{facts['best_revenue_text']} ({facts['best_share_text']} doanh thu).",
+            "text",
+        )))
+    elif facts["regions_level"]:
+        bullets.append(_bullet((
+            "Doanh thu các miền ngang nhau. Mức cao và mức thấp đều là "
+            f"{facts['best_revenue_text']} ({facts['best_share_text']} doanh thu).",
+            "text",
+        )))
+    else:
+        bullets.append(_bullet((
+            f"{facts['best_region']} dẫn đầu với {facts['best_revenue_text']} "
+            f"({facts['best_share_text']} doanh thu). "
+            f"{facts['weak_region']} thấp nhất với {facts['weak_revenue_text']} "
+            f"({facts['weak_share_text']} doanh thu).",
+            "text",
+        )))
+
+    bullets.append(_bullet((
+        f"Nhóm hàng dẫn đầu là {facts['top_category']} với {facts['top_category_revenue_text']} "
+        f"({facts['top_category_share_text']} doanh thu). "
+        f"Sản phẩm bán chạy nhất là {facts['top_product']} với {facts['top_product_revenue_text']}.",
+        "text",
+    )))
+
+    if facts["aov_direction"] is None:
+        bullets.append(_bullet((
+            f"Giá trị đơn trung bình đạt {facts['aov_text']}. "
+            "Đây là tuần đầu nên chưa có xu hướng.",
+            "text",
+        )))
+    else:
+        change, tone = _change_span(facts["aov_direction"], facts["aov_pct"], "vi")
+        bullets.append(_bullet(
+            (f"Giá trị đơn trung bình đạt {facts['aov_text']}, ", "text"),
+            (change, tone),
+            (f" so với {facts['previous_aov_text']} ở tuần {previous}.", "text"),
+        ))
+
+    kind = _recommendation_kind(facts)
+    if kind == "baseline":
+        text = (
+            f"Lấy tuần {week} làm mốc so sánh. Tuần sau hãy đối chiếu "
+            f"{facts['weak_region']} ({facts['weak_share_text']}) với "
+            f"{facts['best_region']} ({facts['best_share_text']})."
+        )
+        bullets.append(_bullet((text, "text")))
+    elif kind == "baseline_single":
+        text = (
+            f"Lấy tuần {week} làm mốc so sánh. Tuần sau hãy xem "
+            f"{facts['top_product']} còn là sản phẩm bán chạy nhất hay không."
+        )
+        bullets.append(_bullet((text, "text")))
+    elif kind == "recover":
+        change, tone = _change_span("down", facts["wow_pct"], "vi")
+        bullets.append(_bullet(
+            ("Doanh thu ", "text"),
+            (change, tone),
+            (
+                f". Nên kiểm tra hàng và nhân sự ở {facts['weak_region']} "
+                f"({facts['weak_share_text']}) và đặt {facts['top_product']} ở vị trí dễ thấy.",
+                "text",
+            ),
+        ))
+    elif kind == "recover_single":
+        change, tone = _change_span("down", facts["wow_pct"], "vi")
+        bullets.append(_bullet(
+            ("Doanh thu ", "text"),
+            (change, tone),
+            (
+                f". Nên kiểm tra tồn kho nhóm {facts['top_category']} và đặt "
+                f"{facts['top_product']} ở vị trí dễ thấy hơn.",
+                "text",
+            ),
+        ))
+    elif kind == "basket":
+        change, tone = _change_span("down", facts["aov_pct"], "vi")
+        bullets.append(_bullet(
+            ("Giá trị đơn ", "text"),
+            (change, tone),
+            (
+                f". Nên bán kèm {facts['top_product']} với một món khác trong nhóm "
+                f"{facts['top_category']} để kéo giá trị đơn lên.",
+                "text",
+            ),
+        ))
+    elif kind == "rebalance":
+        bullets.append(_bullet((
+            f"{facts['best_region']} đã chiếm {facts['best_share_text']} doanh thu. "
+            f"Nên đưa chương trình kế tiếp sang {facts['weak_region']} "
+            f"({facts['weak_share_text']}) để doanh số bớt dồn một miền.",
+            "text",
+        )))
+    else:
+        bullets.append(_bullet((
+            f"Nên ưu tiên nhập {facts['top_product']} cho {facts['best_region']}. "
+            "Đây là sản phẩm bán chạy nhất, và miền này đang dẫn đầu tuần.",
+            "text",
+        )))
+    return bullets
+
+
+def build_commentary(df: pd.DataFrame, week: int, lang: str) -> list[list[tuple[str, str]]]:
+    """Build the summary bullets in Vietnamese or English.
+
+    Parameters
+    ----------
+    df:
+        Sales rows. Include the previous week if the text should show a change.
+    week:
+        The week being reported.
+    lang:
+        "vi" or "en".
+
+    Returns
+    -------
+    Five bullets. Each bullet is a list of (text, tone) pieces. Tone is
+    "text", "up", or "down". "up" is drawn green and "down" is drawn red.
+    Both languages call `_commentary_facts`, so they show the same numbers.
+    """
+    if lang not in ("vi", "en"):
+        raise ValueError('lang must be "vi" or "en".')
+    facts = _commentary_facts(df, week)
+    if lang == "vi":
+        return _commentary_vi(facts)
+    return _commentary_en(facts)
+
+
 def _as_int(value) -> int:
     """Round a pivot or KPI number to a whole dong."""
     return int(round(float(value)))
@@ -434,8 +839,78 @@ def _write_change(ws, row: int, column: int, change: float | None):
     )
 
 
-def write_summary(ws, kpis: dict, regions: pd.DataFrame) -> None:
-    """KPI cards, a small comparison table, and revenue by region for the week."""
+def _inline_font(tone: str) -> InlineFont:
+    """Plain text, or the green/red used for an increase or a decrease."""
+    if tone == "up":
+        return InlineFont(rFont="Calibri", sz=11, b=True, color="FF006100")
+    if tone == "down":
+        return InlineFont(rFont="Calibri", sz=11, b=True, color="FF9C0006")
+    return InlineFont(rFont="Calibri", sz=11, color="FF1F1F1F")
+
+
+def _rich_text(segments: list[tuple[str, str]]) -> CellRichText:
+    """Join commentary pieces into one Excel rich-text value."""
+    blocks = []
+    for text, tone in segments:
+        if text:
+            blocks.append(TextBlock(_inline_font(tone), text))
+    return CellRichText(*blocks)
+
+
+def _write_rich_bullet(ws, row: int, start_col: int, end_col: int, segments) -> None:
+    """Write one wrapped bullet across a merged box."""
+    fill = _fill(COMMENT_FILL_COLOR)
+    alignment = Alignment(horizontal="left", vertical="center", wrap_text=True, indent=1)
+    for column in range(start_col, end_col + 1):
+        cell = ws.cell(row, column, None)
+        cell.fill = fill
+        cell.border = THIN
+        cell.alignment = alignment
+    if start_col != end_col:
+        ws.merge_cells(start_row=row, start_column=start_col, end_row=row, end_column=end_col)
+    cell = ws.cell(row, start_col)
+    cell.value = _rich_text(segments)
+    cell.alignment = alignment
+    cell.fill = fill
+
+
+def _bullet_lines(segments, width: int) -> int:
+    """Estimate how many wrapped lines a bullet needs."""
+    length = sum(len(text) for text, _tone in segments)
+    if length <= 0:
+        return 1
+    return (length + width - 1) // width
+
+
+def _write_commentary(ws, sales: pd.DataFrame, week: int, start_row: int) -> None:
+    """Two side-by-side boxes: Vietnamese on the left, English on the right."""
+    vietnamese = build_commentary(sales, week, "vi")
+    english = build_commentary(sales, week, "en")
+    if len(vietnamese) != len(english):
+        raise ValueError("Vietnamese and English commentary must have the same bullets.")
+
+    _merge(
+        ws, start_row, 2, start_row, 5,
+        "Nhận xét (Tiếng Việt)", HEADER_FONT, HEADER_FILL, LEFT, THIN,
+    )
+    _merge(
+        ws, start_row, 6, start_row, 9,
+        "Commentary (English)", HEADER_FONT, HEADER_FILL, LEFT, THIN,
+    )
+    ws.row_dimensions[start_row].height = 22
+
+    for index, (vi_bullet, en_bullet) in enumerate(zip(vietnamese, english)):
+        row = start_row + 1 + index
+        _write_rich_bullet(ws, row, 2, 5, vi_bullet)
+        _write_rich_bullet(ws, row, 6, 9, en_bullet)
+        # Both boxes are about 70 characters wide. Size the row from the longer bullet
+        # and leave a little padding so wrapped lines do not touch the border.
+        lines = max(_bullet_lines(vi_bullet, 62), _bullet_lines(en_bullet, 62))
+        ws.row_dimensions[row].height = max(36, lines * 18 + 6)
+
+
+def write_summary(ws, sales: pd.DataFrame, kpis: dict, regions: pd.DataFrame) -> None:
+    """KPI cards, comparison tables, and bilingual commentary for the week."""
     ws.title = "Summary"
     ws.sheet_properties.tabColor = NAVY
     _prepare_page(ws)
@@ -554,6 +1029,9 @@ def write_summary(ws, kpis: dict, regions: pd.DataFrame) -> None:
     insight_row = max(14, total_row + 2)
     _merge(ws, insight_row, 2, insight_row, 9, insight, _font(11, color=INK), _fill("FFF8E7"), LEFT)
     ws.row_dimensions[insight_row].height = 32
+    ws.row_dimensions[insight_row + 1].height = 12
+    # With the three sample regions the yellow note is row 15, so this starts at row 17.
+    _write_commentary(ws, sales, week, insight_row + 2)
     ws.row_dimensions[8].height = 22
     ws.print_title_rows = "1:2"
     ws.freeze_panes = "A4"
@@ -750,7 +1228,7 @@ def build_report(csv_path: str | Path, week: int, output_path: str | Path) -> Pa
     Sheets
     ------
     Summary
-        KPI cards for `week`, compared with the previous week.
+        KPI cards for `week`, compared with the previous week, plus bilingual commentary.
     By Region, By Category
         Revenue pivots for week 1 through `week`, with totals.
     Weekly Trend
@@ -781,7 +1259,7 @@ def build_report(csv_path: str | Path, week: int, output_path: str | Path) -> Pa
     products = top_products(scoped, week, limit=10)
 
     workbook = Workbook()
-    write_summary(workbook.active, kpis, regions)
+    write_summary(workbook.active, scoped, kpis, regions)
     write_pivot_sheet(workbook, "By Region", by_region, "Revenue by region and week", "2E75B6")
     write_pivot_sheet(workbook, "By Category", by_category, "Revenue by category and week", "548235")
     write_trend_sheet(workbook, trend, products, week)
