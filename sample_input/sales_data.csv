@@ -1,0 +1,1001 @@
+﻿date,week,region,store,product_category,product,quantity,unit_price,revenue,salesperson
+2026-08-24,1,Miền Bắc,Co.opmart Long Biên,Đồ uống,Cà phê sữa đá lon,2,15000,30000,Hoàng Thị Mai
+2026-08-24,1,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,13,12000,156000,Võ Quốc Huy
+2026-08-24,1,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,7,5000,35000,Tạ Thị Yến
+2026-08-24,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Gia dụng,Nước rửa chén,7,35000,245000,Mai Thu Trang
+2026-08-24,1,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Lương Minh Khang
+2026-08-24,1,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước ngọt có ga,16,12000,192000,Vũ Thu Phương
+2026-08-24,1,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Snack khoai tây,12,12000,144000,Bùi Thanh Tùng
+2026-08-24,1,Miền Trung,VinMart Huế,Gia dụng,Bột giặt,1,95000,95000,Ngô Thị Lan
+2026-08-24,1,Miền Trung,VinMart Huế,Gia dụng,Giấy vệ sinh,8,42000,336000,Phan Văn Khoa
+2026-08-24,1,Miền Trung,VinMart Huế,Thực phẩm khô,Gạo ST25 (1kg),7,28000,196000,Phan Văn Khoa
+2026-08-24,1,Miền Trung,VinMart Huế,Đồ uống,Nước suối 500ml,24,5000,120000,Ngô Thị Lan
+2026-08-24,1,Miền Trung,VinMart Huế,Sữa & đồ lạnh,Phô mai lát,5,45000,225000,Ngô Thị Lan
+2026-08-24,1,Miền Trung,WinMart Nha Trang,Đồ uống,Trà xanh không độ,8,10000,80000,Lý Thị Ngọc
+2026-08-25,1,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,4,12000,48000,Hoàng Thị Mai
+2026-08-25,1,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Bánh quy bơ,1,25000,25000,Nguyễn Văn An
+2026-08-25,1,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước suối 500ml,12,5000,60000,Trần Thị Bình
+2026-08-25,1,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Nước mắm,5,55000,275000,Huỳnh Văn Nam
+2026-08-25,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Sữa tươi tiệt trùng,2,32000,64000,Mai Thu Trang
+2026-08-25,1,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Gạo ST25 (1kg),1,28000,28000,Vũ Thu Phương
+2026-08-25,1,Miền Nam,WinMart Cần Thơ,Bánh kẹo,Kẹo dẻo,1,18000,18000,Lương Minh Khang
+2026-08-25,1,Miền Trung,VinMart Huế,Thực phẩm khô,Gạo ST25 (1kg),10,28000,280000,Phan Văn Khoa
+2026-08-26,1,Miền Bắc,Co.opmart Long Biên,Gia dụng,Giấy vệ sinh,6,42000,252000,Võ Quốc Huy
+2026-08-26,1,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Kẹo dẻo,2,18000,36000,Hoàng Thị Mai
+2026-08-26,1,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,26,4000,104000,Hoàng Thị Mai
+2026-08-26,1,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Cà phê sữa đá lon,14,15000,210000,Nguyễn Văn An
+2026-08-26,1,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Bánh quy bơ,3,25000,75000,Lê Hoàng Cường
+2026-08-26,1,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,4,4000,16000,Lê Hoàng Cường
+2026-08-26,1,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Cà phê sữa đá lon,11,15000,165000,Tạ Thị Yến
+2026-08-26,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Dầu gội,3,89000,267000,Mai Thu Trang
+2026-08-26,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Gia dụng,Nước rửa chén,3,35000,105000,Trịnh Văn Sơn
+2026-08-26,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước suối 500ml,23,5000,115000,Trịnh Văn Sơn
+2026-08-26,1,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,23,4000,92000,Dương Thị Hoa
+2026-08-26,1,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,15,4000,60000,Cao Hải Đăng
+2026-08-26,1,Miền Nam,WinMart Cần Thơ,Đồ uống,Trà xanh không độ,20,10000,200000,Vũ Thu Phương
+2026-08-26,1,Miền Trung,Co.opmart Đà Nẵng,Gia dụng,Giấy vệ sinh,8,42000,336000,Đặng Thu Hà
+2026-08-26,1,Miền Trung,Co.opmart Đà Nẵng,Gia dụng,Giấy vệ sinh,5,42000,210000,Bùi Thanh Tùng
+2026-08-26,1,Miền Trung,Co.opmart Đà Nẵng,Gia dụng,Giấy vệ sinh,7,42000,294000,Bùi Thanh Tùng
+2026-08-26,1,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,11,12000,132000,Đặng Thu Hà
+2026-08-26,1,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,5,5000,25000,Đặng Thu Hà
+2026-08-26,1,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Trà xanh không độ,16,10000,160000,Bùi Thanh Tùng
+2026-08-26,1,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,3,10000,30000,Phan Văn Khoa
+2026-08-27,1,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa chua uống,17,8000,136000,Hoàng Thị Mai
+2026-08-27,1,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,1,4000,4000,Nguyễn Văn An
+2026-08-27,1,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Sữa chua uống,10,8000,80000,Trần Thị Bình
+2026-08-27,1,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Phô mai lát,4,45000,180000,Huỳnh Văn Nam
+2026-08-27,1,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Trà xanh không độ,13,10000,130000,Huỳnh Văn Nam
+2026-08-27,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Gia dụng,Giấy vệ sinh,7,42000,294000,Mai Thu Trang
+2026-08-27,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Mì gói,4,4000,16000,Trịnh Văn Sơn
+2026-08-27,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Bánh kẹo,Snack khoai tây,8,12000,96000,Trịnh Văn Sơn
+2026-08-27,1,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa tươi tiệt trùng,2,32000,64000,Dương Thị Hoa
+2026-08-27,1,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Kẹo dẻo,8,18000,144000,Bùi Thanh Tùng
+2026-08-27,1,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,11,10000,110000,Ngô Thị Lan
+2026-08-27,1,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Mì gói,27,4000,108000,Đỗ Minh Quân
+2026-08-27,1,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Mì gói,7,4000,28000,Đỗ Minh Quân
+2026-08-27,1,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,9,5000,45000,Lý Thị Ngọc
+2026-08-27,1,Miền Trung,WinMart Nha Trang,Bánh kẹo,Snack khoai tây,11,12000,132000,Lý Thị Ngọc
+2026-08-28,1,Miền Bắc,Co.opmart Long Biên,Đồ uống,Cà phê sữa đá lon,13,15000,195000,Võ Quốc Huy
+2026-08-28,1,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,21,4000,84000,Hoàng Thị Mai
+2026-08-28,1,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Nước mắm,4,55000,220000,Võ Quốc Huy
+2026-08-28,1,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,12,12000,144000,Hoàng Thị Mai
+2026-08-28,1,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Bột giặt,2,95000,190000,Nguyễn Văn An
+2026-08-28,1,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Nước mắm,2,55000,110000,Trần Thị Bình
+2026-08-28,1,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước suối 500ml,4,5000,20000,Trần Thị Bình
+2026-08-28,1,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Cà phê sữa đá lon,16,15000,240000,Lê Hoàng Cường
+2026-08-28,1,Miền Bắc,WinMart Cầu Giấy,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Lê Hoàng Cường
+2026-08-28,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Dầu gội,1,89000,89000,Trịnh Văn Sơn
+2026-08-28,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Trà xanh không độ,17,10000,170000,Mai Thu Trang
+2026-08-28,1,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Cao Hải Đăng
+2026-08-28,1,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Cao Hải Đăng
+2026-08-28,1,Miền Trung,WinMart Nha Trang,Đồ uống,Cà phê sữa đá lon,10,15000,150000,Đỗ Minh Quân
+2026-08-28,1,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Nước mắm,6,55000,330000,Đỗ Minh Quân
+2026-08-29,1,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Cà phê sữa đá lon,7,15000,105000,Trần Thị Bình
+2026-08-29,1,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Trà xanh không độ,9,10000,90000,Trần Thị Bình
+2026-08-29,1,Miền Bắc,WinMart Cầu Giấy,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Phạm Minh Đức
+2026-08-29,1,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa chua uống,17,8000,136000,Huỳnh Văn Nam
+2026-08-29,1,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa chua uống,6,8000,48000,Huỳnh Văn Nam
+2026-08-29,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước suối 500ml,7,5000,35000,Trịnh Văn Sơn
+2026-08-29,1,Miền Nam,VinMart Quận 7,Gia dụng,Bột giặt,3,95000,285000,Cao Hải Đăng
+2026-08-29,1,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Dầu gội,2,89000,178000,Vũ Thu Phương
+2026-08-29,1,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Nước mắm,3,55000,165000,Vũ Thu Phương
+2026-08-29,1,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước ngọt có ga,7,12000,84000,Vũ Thu Phương
+2026-08-29,1,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Mì gói,40,4000,160000,Bùi Thanh Tùng
+2026-08-29,1,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Trà xanh không độ,13,10000,130000,Đặng Thu Hà
+2026-08-29,1,Miền Trung,VinMart Huế,Sữa & đồ lạnh,Sữa tươi tiệt trùng,10,32000,320000,Phan Văn Khoa
+2026-08-29,1,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Dầu gội,1,89000,89000,Đỗ Minh Quân
+2026-08-29,1,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa tươi tiệt trùng,5,32000,160000,Đỗ Minh Quân
+2026-08-29,1,Miền Trung,WinMart Nha Trang,Đồ uống,Trà xanh không độ,17,10000,170000,Đỗ Minh Quân
+2026-08-29,1,Miền Trung,WinMart Nha Trang,Đồ uống,Trà xanh không độ,3,10000,30000,Đỗ Minh Quân
+2026-08-30,1,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước ngọt có ga,12,12000,144000,Trần Thị Bình
+2026-08-30,1,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Phô mai lát,8,45000,360000,Nguyễn Văn An
+2026-08-30,1,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Mì gói,35,4000,140000,Trịnh Văn Sơn
+2026-08-30,1,Miền Nam,VinMart Quận 7,Thực phẩm khô,Gạo ST25 (1kg),1,28000,28000,Cao Hải Đăng
+2026-08-30,1,Miền Nam,VinMart Quận 7,Đồ uống,Trà xanh không độ,6,10000,60000,Dương Thị Hoa
+2026-08-30,1,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa chua uống,2,8000,16000,Vũ Thu Phương
+2026-08-30,1,Miền Trung,VinMart Huế,Thực phẩm khô,Mì gói,7,4000,28000,Phan Văn Khoa
+2026-08-30,1,Miền Trung,VinMart Huế,Sữa & đồ lạnh,Sữa tươi tiệt trùng,12,32000,384000,Phan Văn Khoa
+2026-08-30,1,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Ngô Thị Lan
+2026-08-30,1,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,7,5000,35000,Lý Thị Ngọc
+2026-08-31,2,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước ngọt có ga,11,12000,132000,Trần Thị Bình
+2026-08-31,2,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Bánh quy bơ,4,25000,100000,Huỳnh Văn Nam
+2026-08-31,2,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,7,5000,35000,Dương Thị Hoa
+2026-08-31,2,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Phô mai lát,5,45000,225000,Dương Thị Hoa
+2026-08-31,2,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Gạo ST25 (1kg),9,28000,252000,Lương Minh Khang
+2026-08-31,2,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Mì gói,8,4000,32000,Vũ Thu Phương
+2026-08-31,2,Miền Trung,Co.opmart Đà Nẵng,Gia dụng,Giấy vệ sinh,4,42000,168000,Bùi Thanh Tùng
+2026-08-31,2,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,10,5000,50000,Đặng Thu Hà
+2026-08-31,2,Miền Trung,VinMart Huế,Bánh kẹo,Kẹo dẻo,6,18000,108000,Ngô Thị Lan
+2026-08-31,2,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,20,5000,100000,Lý Thị Ngọc
+2026-09-01,2,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Gạo ST25 (1kg),10,28000,280000,Hoàng Thị Mai
+2026-09-01,2,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,10,12000,120000,Hoàng Thị Mai
+2026-09-01,2,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,2,12000,24000,Võ Quốc Huy
+2026-09-01,2,Miền Bắc,Co.opmart Long Biên,Đồ uống,Trà xanh không độ,4,10000,40000,Hoàng Thị Mai
+2026-09-01,2,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Gạo ST25 (1kg),9,28000,252000,Nguyễn Văn An
+2026-09-01,2,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa tươi tiệt trùng,9,32000,288000,Phạm Minh Đức
+2026-09-01,2,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Bánh quy bơ,1,25000,25000,Huỳnh Văn Nam
+2026-09-01,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Gạo ST25 (1kg),7,28000,196000,Mai Thu Trang
+2026-09-01,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Bánh kẹo,Kẹo dẻo,12,18000,216000,Trịnh Văn Sơn
+2026-09-01,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Mì gói,4,4000,16000,Trịnh Văn Sơn
+2026-09-01,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước ngọt có ga,10,12000,120000,Mai Thu Trang
+2026-09-01,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Phô mai lát,7,45000,315000,Trịnh Văn Sơn
+2026-09-01,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Trà xanh không độ,2,10000,20000,Trịnh Văn Sơn
+2026-09-01,2,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa tươi tiệt trùng,2,32000,64000,Lương Minh Khang
+2026-09-01,2,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Lương Minh Khang
+2026-09-01,2,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Dầu gội,1,89000,89000,Bùi Thanh Tùng
+2026-09-01,2,Miền Trung,VinMart Huế,Bánh kẹo,Snack khoai tây,4,12000,48000,Ngô Thị Lan
+2026-09-01,2,Miền Trung,WinMart Nha Trang,Gia dụng,Bột giặt,3,95000,285000,Lý Thị Ngọc
+2026-09-01,2,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,20,5000,100000,Đỗ Minh Quân
+2026-09-02,2,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Phô mai lát,5,45000,225000,Trần Thị Bình
+2026-09-02,2,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Bánh quy bơ,5,25000,125000,Lê Hoàng Cường
+2026-09-02,2,Miền Bắc,WinMart Cầu Giấy,Chăm sóc cá nhân,Kem đánh răng,6,28000,168000,Phạm Minh Đức
+2026-09-02,2,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước ngọt có ga,13,12000,156000,Lê Hoàng Cường
+2026-09-02,2,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Gạo ST25 (1kg),6,28000,168000,Huỳnh Văn Nam
+2026-09-02,2,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa tươi tiệt trùng,11,32000,352000,Huỳnh Văn Nam
+2026-09-02,2,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Trà xanh không độ,8,10000,80000,Tạ Thị Yến
+2026-09-02,2,Miền Nam,VinMart Quận 7,Bánh kẹo,Kẹo dẻo,3,18000,54000,Dương Thị Hoa
+2026-09-02,2,Miền Nam,WinMart Cần Thơ,Bánh kẹo,Kẹo dẻo,2,18000,36000,Lương Minh Khang
+2026-09-02,2,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Mì gói,33,4000,132000,Lương Minh Khang
+2026-09-02,2,Miền Nam,WinMart Cần Thơ,Gia dụng,Nước rửa chén,3,35000,105000,Vũ Thu Phương
+2026-09-02,2,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước suối 500ml,14,5000,70000,Lương Minh Khang
+2026-09-02,2,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Dầu gội,3,89000,267000,Bùi Thanh Tùng
+2026-09-02,2,Miền Trung,Co.opmart Đà Nẵng,Sữa & đồ lạnh,Sữa tươi tiệt trùng,9,32000,288000,Bùi Thanh Tùng
+2026-09-02,2,Miền Trung,VinMart Huế,Gia dụng,Giấy vệ sinh,1,42000,42000,Ngô Thị Lan
+2026-09-03,2,Miền Bắc,Co.opmart Long Biên,Đồ uống,Cà phê sữa đá lon,13,15000,195000,Hoàng Thị Mai
+2026-09-03,2,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Nước mắm,6,55000,330000,Võ Quốc Huy
+2026-09-03,2,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Gạo ST25 (1kg),10,28000,280000,Phạm Minh Đức
+2026-09-03,2,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Snack khoai tây,7,12000,84000,Phạm Minh Đức
+2026-09-03,2,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Mì gói,32,4000,128000,Tạ Thị Yến
+2026-09-03,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Kem đánh răng,5,28000,140000,Mai Thu Trang
+2026-09-03,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Gia dụng,Nước rửa chén,1,35000,35000,Mai Thu Trang
+2026-09-03,2,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,22,4000,88000,Cao Hải Đăng
+2026-09-03,2,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,11,4000,44000,Cao Hải Đăng
+2026-09-03,2,Miền Nam,WinMart Cần Thơ,Bánh kẹo,Snack khoai tây,16,12000,192000,Lương Minh Khang
+2026-09-03,2,Miền Trung,Co.opmart Đà Nẵng,Sữa & đồ lạnh,Sữa tươi tiệt trùng,5,32000,160000,Bùi Thanh Tùng
+2026-09-03,2,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Sữa tắm,3,75000,225000,Bùi Thanh Tùng
+2026-09-03,2,Miền Trung,VinMart Huế,Gia dụng,Bột giặt,3,95000,285000,Ngô Thị Lan
+2026-09-03,2,Miền Trung,WinMart Nha Trang,Đồ uống,Cà phê sữa đá lon,13,15000,195000,Đỗ Minh Quân
+2026-09-03,2,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Phô mai lát,6,45000,270000,Lý Thị Ngọc
+2026-09-04,2,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,24,5000,120000,Võ Quốc Huy
+2026-09-04,2,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,5,4000,20000,Nguyễn Văn An
+2026-09-04,2,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Sữa tươi tiệt trùng,8,32000,256000,Nguyễn Văn An
+2026-09-04,2,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Trà xanh không độ,10,10000,100000,Nguyễn Văn An
+2026-09-04,2,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Trà xanh không độ,5,10000,50000,Lê Hoàng Cường
+2026-09-04,2,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,13,5000,65000,Tạ Thị Yến
+2026-09-04,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Gạo ST25 (1kg),3,28000,84000,Trịnh Văn Sơn
+2026-09-04,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Mì gói,15,4000,60000,Trịnh Văn Sơn
+2026-09-04,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Nước mắm,4,55000,220000,Trịnh Văn Sơn
+2026-09-04,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Nước mắm,2,55000,110000,Mai Thu Trang
+2026-09-04,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Sữa tắm,4,75000,300000,Mai Thu Trang
+2026-09-04,2,Miền Nam,VinMart Quận 7,Thực phẩm khô,Gạo ST25 (1kg),1,28000,28000,Cao Hải Đăng
+2026-09-04,2,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,6,5000,30000,Dương Thị Hoa
+2026-09-04,2,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa tươi tiệt trùng,2,32000,64000,Dương Thị Hoa
+2026-09-04,2,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Dầu gội,2,89000,178000,Lương Minh Khang
+2026-09-04,2,Miền Nam,WinMart Cần Thơ,Đồ uống,Trà xanh không độ,6,10000,60000,Lương Minh Khang
+2026-09-04,2,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Đặng Thu Hà
+2026-09-04,2,Miền Trung,VinMart Huế,Đồ uống,Cà phê sữa đá lon,8,15000,120000,Ngô Thị Lan
+2026-09-04,2,Miền Trung,VinMart Huế,Bánh kẹo,Kẹo dẻo,11,18000,198000,Ngô Thị Lan
+2026-09-04,2,Miền Trung,VinMart Huế,Thực phẩm khô,Mì gói,40,4000,160000,Ngô Thị Lan
+2026-09-05,2,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,24,4000,96000,Hoàng Thị Mai
+2026-09-05,2,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,1,4000,4000,Hoàng Thị Mai
+2026-09-05,2,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước suối 500ml,25,5000,125000,Nguyễn Văn An
+2026-09-05,2,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước suối 500ml,11,5000,55000,Lê Hoàng Cường
+2026-09-05,2,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa chua uống,2,8000,16000,Phạm Minh Đức
+2026-09-05,2,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa tươi tiệt trùng,7,32000,224000,Phạm Minh Đức
+2026-09-05,2,Miền Nam,Big C Phú Mỹ Hưng,Gia dụng,Bột giặt,2,95000,190000,Tạ Thị Yến
+2026-09-05,2,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Kẹo dẻo,11,18000,198000,Huỳnh Văn Nam
+2026-09-05,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Cà phê sữa đá lon,7,15000,105000,Trịnh Văn Sơn
+2026-09-05,2,Miền Nam,VinMart Quận 7,Gia dụng,Bột giặt,3,95000,285000,Dương Thị Hoa
+2026-09-05,2,Miền Nam,WinMart Cần Thơ,Bánh kẹo,Kẹo dẻo,12,18000,216000,Vũ Thu Phương
+2026-09-05,2,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Gạo ST25 (1kg),3,28000,84000,Bùi Thanh Tùng
+2026-09-05,2,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Trà xanh không độ,4,10000,40000,Đặng Thu Hà
+2026-09-05,2,Miền Trung,WinMart Nha Trang,Gia dụng,Nước rửa chén,2,35000,70000,Đỗ Minh Quân
+2026-09-05,2,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,13,5000,65000,Đỗ Minh Quân
+2026-09-05,2,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa chua uống,13,8000,104000,Lý Thị Ngọc
+2026-09-06,2,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,11,12000,132000,Võ Quốc Huy
+2026-09-06,2,Miền Bắc,Co.opmart Long Biên,Đồ uống,Trà xanh không độ,4,10000,40000,Hoàng Thị Mai
+2026-09-06,2,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Cà phê sữa đá lon,8,15000,120000,Trần Thị Bình
+2026-09-06,2,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Kẹo dẻo,10,18000,180000,Huỳnh Văn Nam
+2026-09-06,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Bánh kẹo,Bánh quy bơ,2,25000,50000,Trịnh Văn Sơn
+2026-09-06,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Gia dụng,Nước rửa chén,5,35000,175000,Trịnh Văn Sơn
+2026-09-06,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước suối 500ml,27,5000,135000,Trịnh Văn Sơn
+2026-09-06,2,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Sữa chua uống,3,8000,24000,Mai Thu Trang
+2026-09-06,2,Miền Nam,VinMart Quận 7,Thực phẩm khô,Gạo ST25 (1kg),6,28000,168000,Dương Thị Hoa
+2026-09-06,2,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,37,4000,148000,Dương Thị Hoa
+2026-09-06,2,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,6,5000,30000,Cao Hải Đăng
+2026-09-06,2,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa tươi tiệt trùng,4,32000,128000,Cao Hải Đăng
+2026-09-06,2,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Dầu gội,2,89000,178000,Vũ Thu Phương
+2026-09-06,2,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Dầu gội,1,89000,89000,Vũ Thu Phương
+2026-09-06,2,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Sữa tắm,4,75000,300000,Lương Minh Khang
+2026-09-06,2,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Đặng Thu Hà
+2026-09-06,2,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Trà xanh không độ,12,10000,120000,Bùi Thanh Tùng
+2026-09-06,2,Miền Trung,WinMart Nha Trang,Đồ uống,Cà phê sữa đá lon,13,15000,195000,Đỗ Minh Quân
+2026-09-06,2,Miền Trung,WinMart Nha Trang,Gia dụng,Nước rửa chén,8,35000,280000,Lý Thị Ngọc
+2026-09-07,3,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Bánh quy bơ,7,25000,175000,Nguyễn Văn An
+2026-09-07,3,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Gạo ST25 (1kg),2,28000,56000,Nguyễn Văn An
+2026-09-07,3,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước suối 500ml,22,5000,110000,Trần Thị Bình
+2026-09-07,3,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Bánh quy bơ,4,25000,100000,Lê Hoàng Cường
+2026-09-07,3,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Gạo ST25 (1kg),8,28000,224000,Lê Hoàng Cường
+2026-09-07,3,Miền Bắc,WinMart Cầu Giấy,Gia dụng,Nước rửa chén,8,35000,280000,Lê Hoàng Cường
+2026-09-07,3,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước suối 500ml,26,5000,130000,Lê Hoàng Cường
+2026-09-07,3,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước ngọt có ga,5,12000,60000,Tạ Thị Yến
+2026-09-07,3,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,10,5000,50000,Huỳnh Văn Nam
+2026-09-07,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Mì gói,21,4000,84000,Trịnh Văn Sơn
+2026-09-07,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Phô mai lát,4,45000,180000,Trịnh Văn Sơn
+2026-09-07,3,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Kem đánh răng,6,28000,168000,Dương Thị Hoa
+2026-09-07,3,Miền Nam,VinMart Quận 7,Gia dụng,Nước rửa chén,3,35000,105000,Cao Hải Đăng
+2026-09-07,3,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa chua uống,9,8000,72000,Dương Thị Hoa
+2026-09-07,3,Miền Nam,VinMart Quận 7,Đồ uống,Trà xanh không độ,9,10000,90000,Dương Thị Hoa
+2026-09-07,3,Miền Trung,VinMart Huế,Đồ uống,Cà phê sữa đá lon,17,15000,255000,Phan Văn Khoa
+2026-09-07,3,Miền Trung,VinMart Huế,Gia dụng,Giấy vệ sinh,8,42000,336000,Ngô Thị Lan
+2026-09-07,3,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Kem đánh răng,1,28000,28000,Ngô Thị Lan
+2026-09-07,3,Miền Trung,VinMart Huế,Đồ uống,Nước suối 500ml,24,5000,120000,Phan Văn Khoa
+2026-09-07,3,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Mì gói,10,4000,40000,Lý Thị Ngọc
+2026-09-07,3,Miền Trung,WinMart Nha Trang,Đồ uống,Nước ngọt có ga,4,12000,48000,Đỗ Minh Quân
+2026-09-07,3,Miền Trung,WinMart Nha Trang,Đồ uống,Trà xanh không độ,19,10000,190000,Đỗ Minh Quân
+2026-09-08,3,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,13,4000,52000,Hoàng Thị Mai
+2026-09-08,3,Miền Bắc,Co.opmart Long Biên,Đồ uống,Trà xanh không độ,8,10000,80000,Võ Quốc Huy
+2026-09-08,3,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Bánh quy bơ,9,25000,225000,Trần Thị Bình
+2026-09-08,3,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước suối 500ml,6,5000,30000,Lê Hoàng Cường
+2026-09-08,3,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,10,5000,50000,Tạ Thị Yến
+2026-09-08,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Dầu gội,3,89000,267000,Mai Thu Trang
+2026-09-08,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Mai Thu Trang
+2026-09-08,3,Miền Nam,VinMart Quận 7,Gia dụng,Nước rửa chén,6,35000,210000,Dương Thị Hoa
+2026-09-08,3,Miền Nam,VinMart Quận 7,Đồ uống,Trà xanh không độ,9,10000,90000,Cao Hải Đăng
+2026-09-08,3,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước ngọt có ga,7,12000,84000,Vũ Thu Phương
+2026-09-08,3,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước suối 500ml,28,5000,140000,Lương Minh Khang
+2026-09-08,3,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Bùi Thanh Tùng
+2026-09-08,3,Miền Trung,VinMart Huế,Đồ uống,Cà phê sữa đá lon,13,15000,195000,Ngô Thị Lan
+2026-09-08,3,Miền Trung,VinMart Huế,Gia dụng,Giấy vệ sinh,8,42000,336000,Ngô Thị Lan
+2026-09-08,3,Miền Trung,VinMart Huế,Thực phẩm khô,Gạo ST25 (1kg),7,28000,196000,Ngô Thị Lan
+2026-09-08,3,Miền Trung,VinMart Huế,Đồ uống,Nước ngọt có ga,12,12000,144000,Phan Văn Khoa
+2026-09-08,3,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Phan Văn Khoa
+2026-09-08,3,Miền Trung,WinMart Nha Trang,Bánh kẹo,Bánh quy bơ,8,25000,200000,Lý Thị Ngọc
+2026-09-08,3,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,20,5000,100000,Đỗ Minh Quân
+2026-09-09,3,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Bánh quy bơ,6,25000,150000,Võ Quốc Huy
+2026-09-09,3,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa chua uống,5,8000,40000,Hoàng Thị Mai
+2026-09-09,3,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa tươi tiệt trùng,13,32000,416000,Hoàng Thị Mai
+2026-09-09,3,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,38,4000,152000,Trần Thị Bình
+2026-09-09,3,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Trà xanh không độ,5,10000,50000,Trần Thị Bình
+2026-09-09,3,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,15,4000,60000,Lê Hoàng Cường
+2026-09-09,3,Miền Nam,Big C Phú Mỹ Hưng,Gia dụng,Bột giặt,3,95000,285000,Huỳnh Văn Nam
+2026-09-09,3,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Phô mai lát,3,45000,135000,Huỳnh Văn Nam
+2026-09-09,3,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,21,5000,105000,Dương Thị Hoa
+2026-09-09,3,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa tươi tiệt trùng,13,32000,416000,Vũ Thu Phương
+2026-09-09,3,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Cà phê sữa đá lon,7,15000,105000,Bùi Thanh Tùng
+2026-09-09,3,Miền Trung,Co.opmart Đà Nẵng,Gia dụng,Giấy vệ sinh,5,42000,210000,Bùi Thanh Tùng
+2026-09-09,3,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Trà xanh không độ,4,10000,40000,Bùi Thanh Tùng
+2026-09-09,3,Miền Trung,VinMart Huế,Thực phẩm khô,Nước mắm,4,55000,220000,Phan Văn Khoa
+2026-09-10,3,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,23,5000,115000,Võ Quốc Huy
+2026-09-10,3,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,6,12000,72000,Võ Quốc Huy
+2026-09-10,3,Miền Bắc,Co.opmart Long Biên,Đồ uống,Trà xanh không độ,21,10000,210000,Hoàng Thị Mai
+2026-09-10,3,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,36,4000,144000,Nguyễn Văn An
+2026-09-10,3,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Nước rửa chén,7,35000,245000,Nguyễn Văn An
+2026-09-10,3,Miền Bắc,WinMart Cầu Giấy,Gia dụng,Giấy vệ sinh,4,42000,168000,Lê Hoàng Cường
+2026-09-10,3,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,13,4000,52000,Lê Hoàng Cường
+2026-09-10,3,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa tươi tiệt trùng,12,32000,384000,Lê Hoàng Cường
+2026-09-10,3,Miền Nam,Big C Phú Mỹ Hưng,Gia dụng,Nước rửa chén,5,35000,175000,Huỳnh Văn Nam
+2026-09-10,3,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,7,5000,35000,Huỳnh Văn Nam
+2026-09-10,3,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Trà xanh không độ,1,10000,10000,Tạ Thị Yến
+2026-09-10,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Sữa chua uống,1,8000,8000,Mai Thu Trang
+2026-09-10,3,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa chua uống,6,8000,48000,Vũ Thu Phương
+2026-09-10,3,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Snack khoai tây,14,12000,168000,Bùi Thanh Tùng
+2026-09-10,3,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Trà xanh không độ,3,10000,30000,Bùi Thanh Tùng
+2026-09-10,3,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Kem đánh răng,3,28000,84000,Ngô Thị Lan
+2026-09-10,3,Miền Trung,VinMart Huế,Thực phẩm khô,Mì gói,18,4000,72000,Ngô Thị Lan
+2026-09-10,3,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Nước mắm,3,55000,165000,Đỗ Minh Quân
+2026-09-10,3,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa tươi tiệt trùng,7,32000,224000,Lý Thị Ngọc
+2026-09-10,3,Miền Trung,WinMart Nha Trang,Đồ uống,Trà xanh không độ,6,10000,60000,Lý Thị Ngọc
+2026-09-11,3,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa chua uống,13,8000,104000,Võ Quốc Huy
+2026-09-11,3,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Kẹo dẻo,8,18000,144000,Trần Thị Bình
+2026-09-11,3,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Nước mắm,6,55000,330000,Nguyễn Văn An
+2026-09-11,3,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước suối 500ml,15,5000,75000,Phạm Minh Đức
+2026-09-11,3,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Gạo ST25 (1kg),2,28000,56000,Huỳnh Văn Nam
+2026-09-11,3,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa chua uống,14,8000,112000,Tạ Thị Yến
+2026-09-11,3,Miền Nam,VinMart Quận 7,Đồ uống,Cà phê sữa đá lon,7,15000,105000,Dương Thị Hoa
+2026-09-11,3,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,33,4000,132000,Dương Thị Hoa
+2026-09-11,3,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,1,5000,5000,Cao Hải Đăng
+2026-09-11,3,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Phô mai lát,8,45000,360000,Cao Hải Đăng
+2026-09-11,3,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa chua uống,4,8000,32000,Lương Minh Khang
+2026-09-11,3,Miền Nam,WinMart Cần Thơ,Đồ uống,Trà xanh không độ,4,10000,40000,Lương Minh Khang
+2026-09-11,3,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Mì gói,13,4000,52000,Bùi Thanh Tùng
+2026-09-11,3,Miền Trung,VinMart Huế,Đồ uống,Nước suối 500ml,9,5000,45000,Ngô Thị Lan
+2026-09-11,3,Miền Trung,VinMart Huế,Sữa & đồ lạnh,Sữa tươi tiệt trùng,7,32000,224000,Ngô Thị Lan
+2026-09-11,3,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Gạo ST25 (1kg),5,28000,140000,Đỗ Minh Quân
+2026-09-11,3,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Mì gói,36,4000,144000,Lý Thị Ngọc
+2026-09-11,3,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,21,5000,105000,Lý Thị Ngọc
+2026-09-11,3,Miền Trung,WinMart Nha Trang,Bánh kẹo,Snack khoai tây,4,12000,48000,Lý Thị Ngọc
+2026-09-11,3,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa chua uống,17,8000,136000,Lý Thị Ngọc
+2026-09-12,3,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Kẹo dẻo,7,18000,126000,Hoàng Thị Mai
+2026-09-12,3,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Cà phê sữa đá lon,5,15000,75000,Nguyễn Văn An
+2026-09-12,3,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Bánh quy bơ,5,25000,125000,Lê Hoàng Cường
+2026-09-12,3,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Snack khoai tây,1,12000,12000,Lê Hoàng Cường
+2026-09-12,3,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Trà xanh không độ,15,10000,150000,Lê Hoàng Cường
+2026-09-12,3,Miền Nam,Big C Phú Mỹ Hưng,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Huỳnh Văn Nam
+2026-09-12,3,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Mì gói,9,4000,36000,Tạ Thị Yến
+2026-09-12,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Mì gói,30,4000,120000,Mai Thu Trang
+2026-09-12,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Mai Thu Trang
+2026-09-12,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Trà xanh không độ,19,10000,190000,Trịnh Văn Sơn
+2026-09-12,3,Miền Nam,VinMart Quận 7,Thực phẩm khô,Gạo ST25 (1kg),8,28000,224000,Cao Hải Đăng
+2026-09-12,3,Miền Nam,VinMart Quận 7,Đồ uống,Nước ngọt có ga,14,12000,168000,Cao Hải Đăng
+2026-09-12,3,Miền Nam,VinMart Quận 7,Đồ uống,Nước ngọt có ga,6,12000,72000,Cao Hải Đăng
+2026-09-12,3,Miền Nam,VinMart Quận 7,Bánh kẹo,Snack khoai tây,12,12000,144000,Dương Thị Hoa
+2026-09-12,3,Miền Nam,VinMart Quận 7,Bánh kẹo,Snack khoai tây,8,12000,96000,Cao Hải Đăng
+2026-09-12,3,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Kem đánh răng,6,28000,168000,Lương Minh Khang
+2026-09-12,3,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Mì gói,21,4000,84000,Lương Minh Khang
+2026-09-12,3,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Nước mắm,1,55000,55000,Lương Minh Khang
+2026-09-12,3,Miền Nam,WinMart Cần Thơ,Gia dụng,Nước rửa chén,4,35000,140000,Lương Minh Khang
+2026-09-12,3,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa tươi tiệt trùng,4,32000,128000,Vũ Thu Phương
+2026-09-12,3,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Kẹo dẻo,12,18000,216000,Bùi Thanh Tùng
+2026-09-12,3,Miền Trung,VinMart Huế,Gia dụng,Bột giặt,3,95000,285000,Ngô Thị Lan
+2026-09-12,3,Miền Trung,VinMart Huế,Thực phẩm khô,Gạo ST25 (1kg),3,28000,84000,Ngô Thị Lan
+2026-09-12,3,Miền Trung,VinMart Huế,Sữa & đồ lạnh,Phô mai lát,3,45000,135000,Ngô Thị Lan
+2026-09-12,3,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,18,10000,180000,Phan Văn Khoa
+2026-09-12,3,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,30,5000,150000,Đỗ Minh Quân
+2026-09-12,3,Miền Trung,WinMart Nha Trang,Bánh kẹo,Snack khoai tây,13,12000,156000,Lý Thị Ngọc
+2026-09-13,3,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước ngọt có ga,18,12000,216000,Hoàng Thị Mai
+2026-09-13,3,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Trà xanh không độ,14,10000,140000,Trần Thị Bình
+2026-09-13,3,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Phô mai lát,2,45000,90000,Lê Hoàng Cường
+2026-09-13,3,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa tươi tiệt trùng,13,32000,416000,Phạm Minh Đức
+2026-09-13,3,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Cà phê sữa đá lon,15,15000,225000,Huỳnh Văn Nam
+2026-09-13,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Dầu gội,2,89000,178000,Trịnh Văn Sơn
+2026-09-13,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Sữa tươi tiệt trùng,9,32000,288000,Mai Thu Trang
+2026-09-13,3,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Trà xanh không độ,17,10000,170000,Mai Thu Trang
+2026-09-13,3,Miền Nam,WinMart Cần Thơ,Gia dụng,Giấy vệ sinh,7,42000,294000,Vũ Thu Phương
+2026-09-13,3,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Phô mai lát,4,45000,180000,Lương Minh Khang
+2026-09-13,3,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Phô mai lát,7,45000,315000,Vũ Thu Phương
+2026-09-13,3,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Kẹo dẻo,12,18000,216000,Bùi Thanh Tùng
+2026-09-13,3,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Kẹo dẻo,12,18000,216000,Đặng Thu Hà
+2026-09-13,3,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,2,12000,24000,Bùi Thanh Tùng
+2026-09-13,3,Miền Trung,VinMart Huế,Bánh kẹo,Kẹo dẻo,13,18000,234000,Phan Văn Khoa
+2026-09-13,3,Miền Trung,VinMart Huế,Gia dụng,Nước rửa chén,7,35000,245000,Phan Văn Khoa
+2026-09-13,3,Miền Trung,WinMart Nha Trang,Gia dụng,Giấy vệ sinh,1,42000,42000,Đỗ Minh Quân
+2026-09-13,3,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Phô mai lát,7,45000,315000,Lý Thị Ngọc
+2026-09-14,4,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Phô mai lát,5,45000,225000,Lê Hoàng Cường
+2026-09-14,4,Miền Bắc,WinMart Cầu Giấy,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Lê Hoàng Cường
+2026-09-14,4,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Trà xanh không độ,7,10000,70000,Lê Hoàng Cường
+2026-09-14,4,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Trà xanh không độ,16,10000,160000,Lê Hoàng Cường
+2026-09-14,4,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Kẹo dẻo,2,18000,36000,Tạ Thị Yến
+2026-09-14,4,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Phô mai lát,8,45000,360000,Tạ Thị Yến
+2026-09-14,4,Miền Trung,Co.opmart Đà Nẵng,Gia dụng,Nước rửa chén,6,35000,210000,Đặng Thu Hà
+2026-09-14,4,Miền Trung,Co.opmart Đà Nẵng,Gia dụng,Nước rửa chén,8,35000,280000,Đặng Thu Hà
+2026-09-14,4,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,3,5000,15000,Bùi Thanh Tùng
+2026-09-14,4,Miền Trung,VinMart Huế,Đồ uống,Nước ngọt có ga,6,12000,72000,Ngô Thị Lan
+2026-09-14,4,Miền Trung,VinMart Huế,Sữa & đồ lạnh,Sữa chua uống,2,8000,16000,Phan Văn Khoa
+2026-09-14,4,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Nước mắm,6,55000,330000,Đỗ Minh Quân
+2026-09-14,4,Miền Trung,WinMart Nha Trang,Đồ uống,Nước ngọt có ga,4,12000,48000,Lý Thị Ngọc
+2026-09-14,4,Miền Trung,WinMart Nha Trang,Gia dụng,Nước rửa chén,6,35000,210000,Đỗ Minh Quân
+2026-09-14,4,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,18,5000,90000,Đỗ Minh Quân
+2026-09-14,4,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Phô mai lát,5,45000,225000,Lý Thị Ngọc
+2026-09-15,4,Miền Bắc,Co.opmart Long Biên,Gia dụng,Nước rửa chén,8,35000,280000,Hoàng Thị Mai
+2026-09-15,4,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa chua uống,17,8000,136000,Võ Quốc Huy
+2026-09-15,4,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Sữa tươi tiệt trùng,4,32000,128000,Nguyễn Văn An
+2026-09-15,4,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Phô mai lát,8,45000,360000,Lê Hoàng Cường
+2026-09-15,4,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Trà xanh không độ,17,10000,170000,Phạm Minh Đức
+2026-09-15,4,Miền Nam,Big C Phú Mỹ Hưng,Gia dụng,Giấy vệ sinh,1,42000,42000,Tạ Thị Yến
+2026-09-15,4,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Mì gói,4,4000,16000,Huỳnh Văn Nam
+2026-09-15,4,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Mì gói,21,4000,84000,Tạ Thị Yến
+2026-09-15,4,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước ngọt có ga,2,12000,24000,Huỳnh Văn Nam
+2026-09-15,4,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa chua uống,12,8000,96000,Tạ Thị Yến
+2026-09-15,4,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Trà xanh không độ,3,10000,30000,Huỳnh Văn Nam
+2026-09-15,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Sữa tươi tiệt trùng,8,32000,256000,Mai Thu Trang
+2026-09-15,4,Miền Nam,VinMart Quận 7,Thực phẩm khô,Gạo ST25 (1kg),4,28000,112000,Dương Thị Hoa
+2026-09-15,4,Miền Nam,WinMart Cần Thơ,Gia dụng,Giấy vệ sinh,3,42000,126000,Vũ Thu Phương
+2026-09-15,4,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Kem đánh răng,8,28000,224000,Vũ Thu Phương
+2026-09-15,4,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Bánh quy bơ,10,25000,250000,Đặng Thu Hà
+2026-09-15,4,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,13,10000,130000,Phan Văn Khoa
+2026-09-15,4,Miền Trung,WinMart Nha Trang,Đồ uống,Cà phê sữa đá lon,12,15000,180000,Lý Thị Ngọc
+2026-09-15,4,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa chua uống,4,8000,32000,Đỗ Minh Quân
+2026-09-15,4,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa tươi tiệt trùng,11,32000,352000,Đỗ Minh Quân
+2026-09-16,4,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa chua uống,11,8000,88000,Hoàng Thị Mai
+2026-09-16,4,Miền Bắc,WinMart Cầu Giấy,Chăm sóc cá nhân,Kem đánh răng,2,28000,56000,Lê Hoàng Cường
+2026-09-16,4,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,31,4000,124000,Phạm Minh Đức
+2026-09-16,4,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa chua uống,15,8000,120000,Phạm Minh Đức
+2026-09-16,4,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Cà phê sữa đá lon,14,15000,210000,Tạ Thị Yến
+2026-09-16,4,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Mì gói,17,4000,68000,Huỳnh Văn Nam
+2026-09-16,4,Miền Nam,Big C Phú Mỹ Hưng,Gia dụng,Nước rửa chén,3,35000,105000,Huỳnh Văn Nam
+2026-09-16,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước suối 500ml,18,5000,90000,Mai Thu Trang
+2026-09-16,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Sữa chua uống,11,8000,88000,Trịnh Văn Sơn
+2026-09-16,4,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,21,4000,84000,Dương Thị Hoa
+2026-09-16,4,Miền Nam,VinMart Quận 7,Thực phẩm khô,Nước mắm,2,55000,110000,Cao Hải Đăng
+2026-09-16,4,Miền Nam,VinMart Quận 7,Đồ uống,Nước ngọt có ga,4,12000,48000,Cao Hải Đăng
+2026-09-16,4,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước ngọt có ga,2,12000,24000,Vũ Thu Phương
+2026-09-16,4,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước ngọt có ga,14,12000,168000,Vũ Thu Phương
+2026-09-16,4,Miền Trung,Co.opmart Đà Nẵng,Gia dụng,Bột giặt,1,95000,95000,Bùi Thanh Tùng
+2026-09-16,4,Miền Trung,Co.opmart Đà Nẵng,Gia dụng,Bột giặt,2,95000,190000,Đặng Thu Hà
+2026-09-16,4,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,15,12000,180000,Bùi Thanh Tùng
+2026-09-16,4,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Đặng Thu Hà
+2026-09-16,4,Miền Trung,VinMart Huế,Thực phẩm khô,Mì gói,7,4000,28000,Ngô Thị Lan
+2026-09-16,4,Miền Trung,VinMart Huế,Sữa & đồ lạnh,Sữa tươi tiệt trùng,7,32000,224000,Ngô Thị Lan
+2026-09-16,4,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Gạo ST25 (1kg),4,28000,112000,Đỗ Minh Quân
+2026-09-16,4,Miền Trung,WinMart Nha Trang,Đồ uống,Nước ngọt có ga,10,12000,120000,Lý Thị Ngọc
+2026-09-16,4,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,24,5000,120000,Đỗ Minh Quân
+2026-09-17,4,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Snack khoai tây,11,12000,132000,Nguyễn Văn An
+2026-09-17,4,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Trà xanh không độ,11,10000,110000,Nguyễn Văn An
+2026-09-17,4,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Bánh quy bơ,9,25000,225000,Lê Hoàng Cường
+2026-09-17,4,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa chua uống,13,8000,104000,Huỳnh Văn Nam
+2026-09-17,4,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Trà xanh không độ,10,10000,100000,Tạ Thị Yến
+2026-09-17,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Phô mai lát,1,45000,45000,Mai Thu Trang
+2026-09-17,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Trà xanh không độ,18,10000,180000,Trịnh Văn Sơn
+2026-09-17,4,Miền Nam,VinMart Quận 7,Gia dụng,Giấy vệ sinh,1,42000,42000,Cao Hải Đăng
+2026-09-17,4,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Kem đánh răng,1,28000,28000,Cao Hải Đăng
+2026-09-17,4,Miền Nam,VinMart Quận 7,Đồ uống,Nước ngọt có ga,18,12000,216000,Cao Hải Đăng
+2026-09-17,4,Miền Nam,VinMart Quận 7,Bánh kẹo,Snack khoai tây,5,12000,60000,Dương Thị Hoa
+2026-09-17,4,Miền Trung,Co.opmart Đà Nẵng,Gia dụng,Bột giặt,1,95000,95000,Bùi Thanh Tùng
+2026-09-17,4,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Kem đánh răng,1,28000,28000,Đặng Thu Hà
+2026-09-17,4,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Snack khoai tây,2,12000,24000,Đặng Thu Hà
+2026-09-17,4,Miền Trung,VinMart Huế,Gia dụng,Giấy vệ sinh,5,42000,210000,Ngô Thị Lan
+2026-09-17,4,Miền Trung,VinMart Huế,Bánh kẹo,Kẹo dẻo,5,18000,90000,Phan Văn Khoa
+2026-09-17,4,Miền Trung,VinMart Huế,Thực phẩm khô,Mì gói,9,4000,36000,Ngô Thị Lan
+2026-09-17,4,Miền Trung,VinMart Huế,Gia dụng,Nước rửa chén,8,35000,280000,Phan Văn Khoa
+2026-09-17,4,Miền Trung,VinMart Huế,Bánh kẹo,Snack khoai tây,7,12000,84000,Ngô Thị Lan
+2026-09-17,4,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Sữa tắm,4,75000,300000,Phan Văn Khoa
+2026-09-17,4,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Gạo ST25 (1kg),2,28000,56000,Lý Thị Ngọc
+2026-09-17,4,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,2,5000,10000,Lý Thị Ngọc
+2026-09-17,4,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Phô mai lát,4,45000,180000,Lý Thị Ngọc
+2026-09-17,4,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa tươi tiệt trùng,2,32000,64000,Đỗ Minh Quân
+2026-09-17,4,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa tươi tiệt trùng,9,32000,288000,Lý Thị Ngọc
+2026-09-18,4,Miền Bắc,Co.opmart Long Biên,Gia dụng,Giấy vệ sinh,4,42000,168000,Hoàng Thị Mai
+2026-09-18,4,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Phô mai lát,5,45000,225000,Võ Quốc Huy
+2026-09-18,4,Miền Bắc,VinMart Hoàn Kiếm,Chăm sóc cá nhân,Kem đánh răng,6,28000,168000,Trần Thị Bình
+2026-09-18,4,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Nước mắm,6,55000,330000,Trần Thị Bình
+2026-09-18,4,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Phô mai lát,4,45000,180000,Trần Thị Bình
+2026-09-18,4,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa chua uống,17,8000,136000,Lê Hoàng Cường
+2026-09-18,4,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Trà xanh không độ,7,10000,70000,Phạm Minh Đức
+2026-09-18,4,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước ngọt có ga,17,12000,204000,Tạ Thị Yến
+2026-09-18,4,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Snack khoai tây,5,12000,60000,Huỳnh Văn Nam
+2026-09-18,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Bánh kẹo,Bánh quy bơ,9,25000,225000,Mai Thu Trang
+2026-09-18,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Cà phê sữa đá lon,8,15000,120000,Trịnh Văn Sơn
+2026-09-18,4,Miền Nam,VinMart Quận 7,Thực phẩm khô,Gạo ST25 (1kg),9,28000,252000,Dương Thị Hoa
+2026-09-18,4,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,19,4000,76000,Dương Thị Hoa
+2026-09-18,4,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,28,5000,140000,Cao Hải Đăng
+2026-09-18,4,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Bánh quy bơ,5,25000,125000,Đặng Thu Hà
+2026-09-18,4,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,11,12000,132000,Bùi Thanh Tùng
+2026-09-18,4,Miền Trung,VinMart Huế,Đồ uống,Nước ngọt có ga,18,12000,216000,Phan Văn Khoa
+2026-09-18,4,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Mì gói,36,4000,144000,Đỗ Minh Quân
+2026-09-19,4,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,3,4000,12000,Hoàng Thị Mai
+2026-09-19,4,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa tươi tiệt trùng,8,32000,256000,Võ Quốc Huy
+2026-09-19,4,Miền Bắc,Co.opmart Long Biên,Đồ uống,Trà xanh không độ,10,10000,100000,Hoàng Thị Mai
+2026-09-19,4,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Cà phê sữa đá lon,2,15000,30000,Nguyễn Văn An
+2026-09-19,4,Miền Bắc,VinMart Hoàn Kiếm,Chăm sóc cá nhân,Dầu gội,2,89000,178000,Trần Thị Bình
+2026-09-19,4,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Gạo ST25 (1kg),10,28000,280000,Nguyễn Văn An
+2026-09-19,4,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Gạo ST25 (1kg),9,28000,252000,Lê Hoàng Cường
+2026-09-19,4,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa tươi tiệt trùng,11,32000,352000,Lê Hoàng Cường
+2026-09-19,4,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Bánh quy bơ,8,25000,200000,Huỳnh Văn Nam
+2026-09-19,4,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Mì gói,29,4000,116000,Huỳnh Văn Nam
+2026-09-19,4,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa tươi tiệt trùng,12,32000,384000,Tạ Thị Yến
+2026-09-19,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Gạo ST25 (1kg),6,28000,168000,Mai Thu Trang
+2026-09-19,4,Miền Nam,VinMart Quận 7,Đồ uống,Cà phê sữa đá lon,16,15000,240000,Dương Thị Hoa
+2026-09-19,4,Miền Nam,WinMart Cần Thơ,Bánh kẹo,Bánh quy bơ,2,25000,50000,Vũ Thu Phương
+2026-09-19,4,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Kem đánh răng,8,28000,224000,Vũ Thu Phương
+2026-09-19,4,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Cà phê sữa đá lon,3,15000,45000,Đặng Thu Hà
+2026-09-19,4,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Mì gói,11,4000,44000,Đặng Thu Hà
+2026-09-19,4,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Mì gói,25,4000,100000,Đặng Thu Hà
+2026-09-19,4,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,25,5000,125000,Đặng Thu Hà
+2026-09-19,4,Miền Trung,VinMart Huế,Đồ uống,Cà phê sữa đá lon,1,15000,15000,Phan Văn Khoa
+2026-09-19,4,Miền Trung,VinMart Huế,Đồ uống,Nước ngọt có ga,4,12000,48000,Ngô Thị Lan
+2026-09-19,4,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Dầu gội,1,89000,89000,Lý Thị Ngọc
+2026-09-19,4,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,24,5000,120000,Lý Thị Ngọc
+2026-09-20,4,Miền Bắc,Co.opmart Long Biên,Đồ uống,Cà phê sữa đá lon,7,15000,105000,Võ Quốc Huy
+2026-09-20,4,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,19,5000,95000,Võ Quốc Huy
+2026-09-20,4,Miền Bắc,VinMart Hoàn Kiếm,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Trần Thị Bình
+2026-09-20,4,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,14,4000,56000,Phạm Minh Đức
+2026-09-20,4,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Phô mai lát,2,45000,90000,Lê Hoàng Cường
+2026-09-20,4,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Cà phê sữa đá lon,10,15000,150000,Huỳnh Văn Nam
+2026-09-20,4,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Mì gói,24,4000,96000,Tạ Thị Yến
+2026-09-20,4,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước ngọt có ga,3,12000,36000,Tạ Thị Yến
+2026-09-20,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Gia dụng,Nước rửa chén,1,35000,35000,Mai Thu Trang
+2026-09-20,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Sữa chua uống,19,8000,152000,Trịnh Văn Sơn
+2026-09-20,4,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Sữa chua uống,4,8000,32000,Trịnh Văn Sơn
+2026-09-20,4,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,1,4000,4000,Dương Thị Hoa
+2026-09-20,4,Miền Nam,WinMart Cần Thơ,Đồ uống,Cà phê sữa đá lon,5,15000,75000,Vũ Thu Phương
+2026-09-20,4,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước ngọt có ga,8,12000,96000,Lương Minh Khang
+2026-09-20,4,Miền Nam,WinMart Cần Thơ,Gia dụng,Nước rửa chén,1,35000,35000,Lương Minh Khang
+2026-09-20,4,Miền Nam,WinMart Cần Thơ,Bánh kẹo,Snack khoai tây,10,12000,120000,Lương Minh Khang
+2026-09-20,4,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Bánh quy bơ,4,25000,100000,Bùi Thanh Tùng
+2026-09-20,4,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,12,5000,60000,Đặng Thu Hà
+2026-09-20,4,Miền Trung,WinMart Nha Trang,Gia dụng,Giấy vệ sinh,1,42000,42000,Đỗ Minh Quân
+2026-09-20,4,Miền Trung,WinMart Nha Trang,Đồ uống,Nước ngọt có ga,12,12000,144000,Đỗ Minh Quân
+2026-09-20,4,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,12,5000,60000,Đỗ Minh Quân
+2026-09-21,5,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,18,5000,90000,Hoàng Thị Mai
+2026-09-21,5,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước ngọt có ga,17,12000,204000,Trần Thị Bình
+2026-09-21,5,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Bánh quy bơ,1,25000,25000,Lê Hoàng Cường
+2026-09-21,5,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Kẹo dẻo,1,18000,18000,Lê Hoàng Cường
+2026-09-21,5,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Mì gói,24,4000,96000,Huỳnh Văn Nam
+2026-09-21,5,Miền Nam,VinMart Quận 7,Đồ uống,Cà phê sữa đá lon,17,15000,255000,Dương Thị Hoa
+2026-09-21,5,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Kem đánh răng,5,28000,140000,Đặng Thu Hà
+2026-09-21,5,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Phan Văn Khoa
+2026-09-21,5,Miền Trung,VinMart Huế,Đồ uống,Nước suối 500ml,32,5000,160000,Ngô Thị Lan
+2026-09-21,5,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Ngô Thị Lan
+2026-09-21,5,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Kem đánh răng,5,28000,140000,Đỗ Minh Quân
+2026-09-21,5,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa tươi tiệt trùng,2,32000,64000,Lý Thị Ngọc
+2026-09-22,5,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Bánh quy bơ,1,25000,25000,Hoàng Thị Mai
+2026-09-22,5,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Bánh quy bơ,2,25000,50000,Võ Quốc Huy
+2026-09-22,5,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Nước mắm,1,55000,55000,Hoàng Thị Mai
+2026-09-22,5,Miền Bắc,Co.opmart Long Biên,Đồ uống,Trà xanh không độ,14,10000,140000,Võ Quốc Huy
+2026-09-22,5,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Trà xanh không độ,13,10000,130000,Trần Thị Bình
+2026-09-22,5,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,26,4000,104000,Lê Hoàng Cường
+2026-09-22,5,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước ngọt có ga,15,12000,180000,Phạm Minh Đức
+2026-09-22,5,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước ngọt có ga,19,12000,228000,Phạm Minh Đức
+2026-09-22,5,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Phô mai lát,6,45000,270000,Phạm Minh Đức
+2026-09-22,5,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Trà xanh không độ,18,10000,180000,Huỳnh Văn Nam
+2026-09-22,5,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Cà phê sữa đá lon,4,15000,60000,Trịnh Văn Sơn
+2026-09-22,5,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Kem đánh răng,8,28000,224000,Mai Thu Trang
+2026-09-22,5,Miền Nam,VinMart Quận 7,Bánh kẹo,Bánh quy bơ,9,25000,225000,Dương Thị Hoa
+2026-09-22,5,Miền Nam,VinMart Quận 7,Gia dụng,Giấy vệ sinh,2,42000,84000,Cao Hải Đăng
+2026-09-22,5,Miền Nam,VinMart Quận 7,Bánh kẹo,Kẹo dẻo,6,18000,108000,Cao Hải Đăng
+2026-09-22,5,Miền Nam,VinMart Quận 7,Đồ uống,Trà xanh không độ,2,10000,20000,Cao Hải Đăng
+2026-09-22,5,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Kẹo dẻo,12,18000,216000,Đặng Thu Hà
+2026-09-22,5,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa tươi tiệt trùng,12,32000,384000,Lý Thị Ngọc
+2026-09-23,5,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Cà phê sữa đá lon,9,15000,135000,Nguyễn Văn An
+2026-09-23,5,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,30,4000,120000,Nguyễn Văn An
+2026-09-23,5,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Sữa tươi tiệt trùng,13,32000,416000,Nguyễn Văn An
+2026-09-23,5,Miền Bắc,WinMart Cầu Giấy,Gia dụng,Nước rửa chén,2,35000,70000,Lê Hoàng Cường
+2026-09-23,5,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa chua uống,15,8000,120000,Lê Hoàng Cường
+2026-09-23,5,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Trà xanh không độ,6,10000,60000,Phạm Minh Đức
+2026-09-23,5,Miền Nam,Big C Phú Mỹ Hưng,Chăm sóc cá nhân,Sữa tắm,3,75000,225000,Huỳnh Văn Nam
+2026-09-23,5,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Trà xanh không độ,16,10000,160000,Tạ Thị Yến
+2026-09-23,5,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Mì gói,27,4000,108000,Mai Thu Trang
+2026-09-23,5,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Kem đánh răng,9,28000,252000,Cao Hải Đăng
+2026-09-23,5,Miền Trung,VinMart Huế,Bánh kẹo,Snack khoai tây,15,12000,180000,Ngô Thị Lan
+2026-09-23,5,Miền Trung,VinMart Huế,Sữa & đồ lạnh,Sữa tươi tiệt trùng,11,32000,352000,Ngô Thị Lan
+2026-09-23,5,Miền Trung,WinMart Nha Trang,Gia dụng,Giấy vệ sinh,3,42000,126000,Đỗ Minh Quân
+2026-09-23,5,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Phô mai lát,9,45000,405000,Lý Thị Ngọc
+2026-09-23,5,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa chua uống,15,8000,120000,Lý Thị Ngọc
+2026-09-23,5,Miền Trung,WinMart Nha Trang,Đồ uống,Trà xanh không độ,5,10000,50000,Lý Thị Ngọc
+2026-09-24,5,Miền Bắc,Co.opmart Long Biên,Đồ uống,Cà phê sữa đá lon,9,15000,135000,Võ Quốc Huy
+2026-09-24,5,Miền Bắc,Co.opmart Long Biên,Chăm sóc cá nhân,Dầu gội,2,89000,178000,Võ Quốc Huy
+2026-09-24,5,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Phô mai lát,2,45000,90000,Võ Quốc Huy
+2026-09-24,5,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,37,4000,148000,Nguyễn Văn An
+2026-09-24,5,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Snack khoai tây,15,12000,180000,Nguyễn Văn An
+2026-09-24,5,Miền Bắc,WinMart Cầu Giấy,Chăm sóc cá nhân,Kem đánh răng,9,28000,252000,Lê Hoàng Cường
+2026-09-24,5,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,43,4000,172000,Phạm Minh Đức
+2026-09-24,5,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước ngọt có ga,19,12000,228000,Huỳnh Văn Nam
+2026-09-24,5,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Trà xanh không độ,2,10000,20000,Huỳnh Văn Nam
+2026-09-24,5,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,29,5000,145000,Dương Thị Hoa
+2026-09-24,5,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Cao Hải Đăng
+2026-09-24,5,Miền Nam,WinMart Cần Thơ,Đồ uống,Cà phê sữa đá lon,14,15000,210000,Vũ Thu Phương
+2026-09-24,5,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Gạo ST25 (1kg),11,28000,308000,Lương Minh Khang
+2026-09-24,5,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Nước mắm,6,55000,330000,Lương Minh Khang
+2026-09-24,5,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa chua uống,19,8000,152000,Vũ Thu Phương
+2026-09-24,5,Miền Nam,WinMart Cần Thơ,Đồ uống,Trà xanh không độ,16,10000,160000,Vũ Thu Phương
+2026-09-24,5,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Gạo ST25 (1kg),10,28000,280000,Bùi Thanh Tùng
+2026-09-24,5,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Dầu gội,3,89000,267000,Phan Văn Khoa
+2026-09-24,5,Miền Trung,VinMart Huế,Đồ uống,Nước suối 500ml,12,5000,60000,Phan Văn Khoa
+2026-09-24,5,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Dầu gội,1,89000,89000,Lý Thị Ngọc
+2026-09-24,5,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Kem đánh răng,1,28000,28000,Đỗ Minh Quân
+2026-09-25,5,Miền Bắc,Co.opmart Long Biên,Gia dụng,Giấy vệ sinh,9,42000,378000,Hoàng Thị Mai
+2026-09-25,5,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Kẹo dẻo,10,18000,180000,Hoàng Thị Mai
+2026-09-25,5,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,22,5000,110000,Võ Quốc Huy
+2026-09-25,5,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa tươi tiệt trùng,8,32000,256000,Võ Quốc Huy
+2026-09-25,5,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Snack khoai tây,11,12000,132000,Trần Thị Bình
+2026-09-25,5,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,1,4000,4000,Phạm Minh Đức
+2026-09-25,5,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa chua uống,21,8000,168000,Lê Hoàng Cường
+2026-09-25,5,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Mì gói,40,4000,160000,Tạ Thị Yến
+2026-09-25,5,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Mì gói,11,4000,44000,Tạ Thị Yến
+2026-09-25,5,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,25,5000,125000,Tạ Thị Yến
+2026-09-25,5,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa tươi tiệt trùng,13,32000,416000,Tạ Thị Yến
+2026-09-25,5,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Cà phê sữa đá lon,4,15000,60000,Mai Thu Trang
+2026-09-25,5,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,21,4000,84000,Cao Hải Đăng
+2026-09-25,5,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Mì gói,26,4000,104000,Vũ Thu Phương
+2026-09-25,5,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước ngọt có ga,1,12000,12000,Vũ Thu Phương
+2026-09-25,5,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Gạo ST25 (1kg),4,28000,112000,Đặng Thu Hà
+2026-09-25,5,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Snack khoai tây,12,12000,144000,Bùi Thanh Tùng
+2026-09-25,5,Miền Trung,VinMart Huế,Gia dụng,Bột giặt,2,95000,190000,Ngô Thị Lan
+2026-09-25,5,Miền Trung,VinMart Huế,Sữa & đồ lạnh,Sữa tươi tiệt trùng,2,32000,64000,Phan Văn Khoa
+2026-09-25,5,Miền Trung,WinMart Nha Trang,Gia dụng,Bột giặt,2,95000,190000,Lý Thị Ngọc
+2026-09-25,5,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Kem đánh răng,9,28000,252000,Đỗ Minh Quân
+2026-09-25,5,Miền Trung,WinMart Nha Trang,Đồ uống,Trà xanh không độ,21,10000,210000,Đỗ Minh Quân
+2026-09-26,5,Miền Bắc,Co.opmart Long Biên,Đồ uống,Cà phê sữa đá lon,11,15000,165000,Võ Quốc Huy
+2026-09-26,5,Miền Bắc,Co.opmart Long Biên,Gia dụng,Giấy vệ sinh,3,42000,126000,Võ Quốc Huy
+2026-09-26,5,Miền Bắc,Co.opmart Long Biên,Chăm sóc cá nhân,Kem đánh răng,2,28000,56000,Võ Quốc Huy
+2026-09-26,5,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Snack khoai tây,6,12000,72000,Phạm Minh Đức
+2026-09-26,5,Miền Bắc,WinMart Cầu Giấy,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Lê Hoàng Cường
+2026-09-26,5,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Trà xanh không độ,9,10000,90000,Phạm Minh Đức
+2026-09-26,5,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước ngọt có ga,3,12000,36000,Tạ Thị Yến
+2026-09-26,5,Miền Nam,Big C Phú Mỹ Hưng,Gia dụng,Nước rửa chén,6,35000,210000,Tạ Thị Yến
+2026-09-26,5,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,27,5000,135000,Tạ Thị Yến
+2026-09-26,5,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Gia dụng,Giấy vệ sinh,6,42000,252000,Mai Thu Trang
+2026-09-26,5,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước suối 500ml,9,5000,45000,Mai Thu Trang
+2026-09-26,5,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Mì gói,9,4000,36000,Vũ Thu Phương
+2026-09-26,5,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,3,12000,36000,Đặng Thu Hà
+2026-09-26,5,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,11,10000,110000,Ngô Thị Lan
+2026-09-26,5,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Gạo ST25 (1kg),11,28000,308000,Lý Thị Ngọc
+2026-09-26,5,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Mì gói,2,4000,8000,Đỗ Minh Quân
+2026-09-26,5,Miền Trung,WinMart Nha Trang,Đồ uống,Nước ngọt có ga,17,12000,204000,Lý Thị Ngọc
+2026-09-26,5,Miền Trung,WinMart Nha Trang,Đồ uống,Trà xanh không độ,12,10000,120000,Đỗ Minh Quân
+2026-09-27,5,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,31,4000,124000,Võ Quốc Huy
+2026-09-27,5,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Gạo ST25 (1kg),5,28000,140000,Nguyễn Văn An
+2026-09-27,5,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Snack khoai tây,9,12000,108000,Trần Thị Bình
+2026-09-27,5,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Cà phê sữa đá lon,15,15000,225000,Phạm Minh Đức
+2026-09-27,5,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Phô mai lát,9,45000,405000,Phạm Minh Đức
+2026-09-27,5,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Phô mai lát,5,45000,225000,Phạm Minh Đức
+2026-09-27,5,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Snack khoai tây,16,12000,192000,Phạm Minh Đức
+2026-09-27,5,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước ngọt có ga,9,12000,108000,Huỳnh Văn Nam
+2026-09-27,5,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,12,5000,60000,Huỳnh Văn Nam
+2026-09-27,5,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Bánh kẹo,Bánh quy bơ,10,25000,250000,Mai Thu Trang
+2026-09-27,5,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước ngọt có ga,3,12000,36000,Trịnh Văn Sơn
+2026-09-27,5,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Trịnh Văn Sơn
+2026-09-27,5,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa tươi tiệt trùng,11,32000,352000,Dương Thị Hoa
+2026-09-27,5,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Vũ Thu Phương
+2026-09-27,5,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,13,12000,156000,Đặng Thu Hà
+2026-09-27,5,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,30,5000,150000,Bùi Thanh Tùng
+2026-09-27,5,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Snack khoai tây,16,12000,192000,Bùi Thanh Tùng
+2026-09-27,5,Miền Trung,Co.opmart Đà Nẵng,Sữa & đồ lạnh,Sữa tươi tiệt trùng,3,32000,96000,Đặng Thu Hà
+2026-09-27,5,Miền Trung,VinMart Huế,Bánh kẹo,Kẹo dẻo,1,18000,18000,Phan Văn Khoa
+2026-09-27,5,Miền Trung,WinMart Nha Trang,Bánh kẹo,Kẹo dẻo,10,18000,180000,Đỗ Minh Quân
+2026-09-28,6,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước ngọt có ga,19,12000,228000,Võ Quốc Huy
+2026-09-28,6,Miền Bắc,Co.opmart Long Biên,Đồ uống,Trà xanh không độ,8,10000,80000,Võ Quốc Huy
+2026-09-28,6,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Bột giặt,2,95000,190000,Trần Thị Bình
+2026-09-28,6,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước ngọt có ga,17,12000,204000,Trần Thị Bình
+2026-09-28,6,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Nước rửa chén,7,35000,245000,Trần Thị Bình
+2026-09-28,6,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa chua uống,17,8000,136000,Lê Hoàng Cường
+2026-09-28,6,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa tươi tiệt trùng,13,32000,416000,Phạm Minh Đức
+2026-09-28,6,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Snack khoai tây,12,12000,144000,Huỳnh Văn Nam
+2026-09-28,6,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Trà xanh không độ,20,10000,200000,Trịnh Văn Sơn
+2026-09-28,6,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Kem đánh răng,5,28000,140000,Dương Thị Hoa
+2026-09-28,6,Miền Nam,VinMart Quận 7,Đồ uống,Nước ngọt có ga,6,12000,72000,Cao Hải Đăng
+2026-09-28,6,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Sữa tắm,3,75000,225000,Cao Hải Đăng
+2026-09-28,6,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Mì gói,25,4000,100000,Đặng Thu Hà
+2026-09-28,6,Miền Trung,VinMart Huế,Đồ uống,Nước ngọt có ga,5,12000,60000,Ngô Thị Lan
+2026-09-28,6,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Ngô Thị Lan
+2026-09-28,6,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Phô mai lát,5,45000,225000,Đỗ Minh Quân
+2026-09-28,6,Miền Trung,WinMart Nha Trang,Bánh kẹo,Snack khoai tây,7,12000,84000,Đỗ Minh Quân
+2026-09-29,6,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước ngọt có ga,9,12000,108000,Võ Quốc Huy
+2026-09-29,6,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Giấy vệ sinh,3,42000,126000,Trần Thị Bình
+2026-09-29,6,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Cà phê sữa đá lon,17,15000,255000,Huỳnh Văn Nam
+2026-09-29,6,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Cà phê sữa đá lon,8,15000,120000,Trịnh Văn Sơn
+2026-09-29,6,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,9,5000,45000,Dương Thị Hoa
+2026-09-29,6,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Gạo ST25 (1kg),7,28000,196000,Lương Minh Khang
+2026-09-29,6,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Kem đánh răng,7,28000,196000,Đặng Thu Hà
+2026-09-29,6,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Kem đánh răng,4,28000,112000,Đặng Thu Hà
+2026-09-29,6,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,12,12000,144000,Bùi Thanh Tùng
+2026-09-29,6,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,12,5000,60000,Đặng Thu Hà
+2026-09-29,6,Miền Trung,VinMart Huế,Thực phẩm khô,Mì gói,18,4000,72000,Ngô Thị Lan
+2026-09-29,6,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,29,5000,145000,Lý Thị Ngọc
+2026-09-30,6,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,4,5000,20000,Hoàng Thị Mai
+2026-09-30,6,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,15,12000,180000,Hoàng Thị Mai
+2026-09-30,6,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Kẹo dẻo,4,18000,72000,Trần Thị Bình
+2026-09-30,6,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,30,4000,120000,Trần Thị Bình
+2026-09-30,6,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa tươi tiệt trùng,7,32000,224000,Tạ Thị Yến
+2026-09-30,6,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Dầu gội,2,89000,178000,Mai Thu Trang
+2026-09-30,6,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Nước mắm,5,55000,275000,Mai Thu Trang
+2026-09-30,6,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Gia dụng,Nước rửa chén,2,35000,70000,Mai Thu Trang
+2026-09-30,6,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Trà xanh không độ,13,10000,130000,Trịnh Văn Sơn
+2026-09-30,6,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa tươi tiệt trùng,2,32000,64000,Cao Hải Đăng
+2026-09-30,6,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Dầu gội,1,89000,89000,Vũ Thu Phương
+2026-09-30,6,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước suối 500ml,25,5000,125000,Lương Minh Khang
+2026-09-30,6,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Cà phê sữa đá lon,14,15000,210000,Bùi Thanh Tùng
+2026-09-30,6,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Nước mắm,2,55000,110000,Đỗ Minh Quân
+2026-09-30,6,Miền Trung,WinMart Nha Trang,Đồ uống,Nước ngọt có ga,18,12000,216000,Lý Thị Ngọc
+2026-10-01,6,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Nước mắm,4,55000,220000,Hoàng Thị Mai
+2026-10-01,6,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,9,12000,108000,Võ Quốc Huy
+2026-10-01,6,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Gạo ST25 (1kg),1,28000,28000,Phạm Minh Đức
+2026-10-01,6,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Kẹo dẻo,5,18000,90000,Lê Hoàng Cường
+2026-10-01,6,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Snack khoai tây,17,12000,204000,Tạ Thị Yến
+2026-10-01,6,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa chua uống,19,8000,152000,Huỳnh Văn Nam
+2026-10-01,6,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Kem đánh răng,8,28000,224000,Trịnh Văn Sơn
+2026-10-01,6,Miền Nam,VinMart Quận 7,Bánh kẹo,Bánh quy bơ,5,25000,125000,Dương Thị Hoa
+2026-10-01,6,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,6,4000,24000,Cao Hải Đăng
+2026-10-01,6,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,5,5000,25000,Cao Hải Đăng
+2026-10-01,6,Miền Nam,VinMart Quận 7,Bánh kẹo,Snack khoai tây,7,12000,84000,Dương Thị Hoa
+2026-10-01,6,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa chua uống,19,8000,152000,Dương Thị Hoa
+2026-10-01,6,Miền Nam,VinMart Quận 7,Đồ uống,Trà xanh không độ,3,10000,30000,Dương Thị Hoa
+2026-10-01,6,Miền Nam,VinMart Quận 7,Đồ uống,Trà xanh không độ,3,10000,30000,Dương Thị Hoa
+2026-10-01,6,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Gạo ST25 (1kg),6,28000,168000,Vũ Thu Phương
+2026-10-01,6,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Cà phê sữa đá lon,3,15000,45000,Bùi Thanh Tùng
+2026-10-01,6,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,30,5000,150000,Bùi Thanh Tùng
+2026-10-01,6,Miền Trung,VinMart Huế,Bánh kẹo,Bánh quy bơ,2,25000,50000,Ngô Thị Lan
+2026-10-01,6,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Dầu gội,2,89000,178000,Ngô Thị Lan
+2026-10-01,6,Miền Trung,VinMart Huế,Đồ uống,Nước ngọt có ga,2,12000,24000,Ngô Thị Lan
+2026-10-01,6,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,10,10000,100000,Phan Văn Khoa
+2026-10-01,6,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Kem đánh răng,7,28000,196000,Đỗ Minh Quân
+2026-10-01,6,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Phô mai lát,8,45000,360000,Đỗ Minh Quân
+2026-10-01,6,Miền Trung,WinMart Nha Trang,Đồ uống,Trà xanh không độ,2,10000,20000,Đỗ Minh Quân
+2026-10-02,6,Miền Bắc,Co.opmart Long Biên,Gia dụng,Giấy vệ sinh,7,42000,294000,Hoàng Thị Mai
+2026-10-02,6,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa tươi tiệt trùng,9,32000,288000,Hoàng Thị Mai
+2026-10-02,6,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Bánh quy bơ,10,25000,250000,Nguyễn Văn An
+2026-10-02,6,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Giấy vệ sinh,4,42000,168000,Nguyễn Văn An
+2026-10-02,6,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Giấy vệ sinh,3,42000,126000,Trần Thị Bình
+2026-10-02,6,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Gạo ST25 (1kg),1,28000,28000,Lê Hoàng Cường
+2026-10-02,6,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước suối 500ml,7,5000,35000,Phạm Minh Đức
+2026-10-02,6,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa tươi tiệt trùng,8,32000,256000,Lê Hoàng Cường
+2026-10-02,6,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa tươi tiệt trùng,10,32000,320000,Phạm Minh Đức
+2026-10-02,6,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa tươi tiệt trùng,1,32000,32000,Lê Hoàng Cường
+2026-10-02,6,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,26,5000,130000,Tạ Thị Yến
+2026-10-02,6,Miền Nam,Big C Phú Mỹ Hưng,Chăm sóc cá nhân,Sữa tắm,4,75000,300000,Tạ Thị Yến
+2026-10-02,6,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước suối 500ml,23,5000,115000,Mai Thu Trang
+2026-10-02,6,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,22,5000,110000,Dương Thị Hoa
+2026-10-02,6,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa chua uống,7,8000,56000,Dương Thị Hoa
+2026-10-02,6,Miền Nam,WinMart Cần Thơ,Thực phẩm khô,Gạo ST25 (1kg),9,28000,252000,Lương Minh Khang
+2026-10-02,6,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Phô mai lát,6,45000,270000,Vũ Thu Phương
+2026-10-02,6,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa tươi tiệt trùng,12,32000,384000,Vũ Thu Phương
+2026-10-02,6,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,18,12000,216000,Đặng Thu Hà
+2026-10-02,6,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,32,5000,160000,Bùi Thanh Tùng
+2026-10-02,6,Miền Trung,VinMart Huế,Bánh kẹo,Bánh quy bơ,3,25000,75000,Ngô Thị Lan
+2026-10-02,6,Miền Trung,VinMart Huế,Gia dụng,Nước rửa chén,2,35000,70000,Ngô Thị Lan
+2026-10-02,6,Miền Trung,VinMart Huế,Bánh kẹo,Snack khoai tây,5,12000,60000,Ngô Thị Lan
+2026-10-02,6,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Sữa tắm,3,75000,225000,Ngô Thị Lan
+2026-10-02,6,Miền Trung,WinMart Nha Trang,Gia dụng,Nước rửa chén,4,35000,140000,Đỗ Minh Quân
+2026-10-02,6,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa chua uống,5,8000,40000,Đỗ Minh Quân
+2026-10-03,6,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,12,12000,144000,Võ Quốc Huy
+2026-10-03,6,Miền Bắc,Co.opmart Long Biên,Đồ uống,Trà xanh không độ,12,10000,120000,Võ Quốc Huy
+2026-10-03,6,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Sữa chua uống,18,8000,144000,Nguyễn Văn An
+2026-10-03,6,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Sữa tươi tiệt trùng,12,32000,384000,Nguyễn Văn An
+2026-10-03,6,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,20,4000,80000,Phạm Minh Đức
+2026-10-03,6,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Nước mắm,2,55000,110000,Lê Hoàng Cường
+2026-10-03,6,Miền Nam,Big C Phú Mỹ Hưng,Chăm sóc cá nhân,Kem đánh răng,7,28000,196000,Huỳnh Văn Nam
+2026-10-03,6,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa chua uống,16,8000,128000,Tạ Thị Yến
+2026-10-03,6,Miền Nam,VinMart Quận 7,Gia dụng,Bột giặt,2,95000,190000,Dương Thị Hoa
+2026-10-03,6,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa tươi tiệt trùng,6,32000,192000,Dương Thị Hoa
+2026-10-03,6,Miền Nam,WinMart Cần Thơ,Gia dụng,Giấy vệ sinh,1,42000,42000,Vũ Thu Phương
+2026-10-03,6,Miền Nam,WinMart Cần Thơ,Gia dụng,Nước rửa chén,8,35000,280000,Lương Minh Khang
+2026-10-03,6,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Phô mai lát,5,45000,225000,Vũ Thu Phương
+2026-10-03,6,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,2,12000,24000,Bùi Thanh Tùng
+2026-10-03,6,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,30,5000,150000,Bùi Thanh Tùng
+2026-10-03,6,Miền Trung,Co.opmart Đà Nẵng,Sữa & đồ lạnh,Sữa chua uống,8,8000,64000,Bùi Thanh Tùng
+2026-10-03,6,Miền Trung,VinMart Huế,Đồ uống,Nước ngọt có ga,3,12000,36000,Phan Văn Khoa
+2026-10-03,6,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,9,10000,90000,Phan Văn Khoa
+2026-10-03,6,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Dầu gội,3,89000,267000,Lý Thị Ngọc
+2026-10-03,6,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa tươi tiệt trùng,5,32000,160000,Đỗ Minh Quân
+2026-10-04,6,Miền Bắc,Co.opmart Long Biên,Đồ uống,Cà phê sữa đá lon,2,15000,30000,Hoàng Thị Mai
+2026-10-04,6,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước suối 500ml,2,5000,10000,Trần Thị Bình
+2026-10-04,6,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Snack khoai tây,8,12000,96000,Nguyễn Văn An
+2026-10-04,6,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Sữa chua uống,9,8000,72000,Nguyễn Văn An
+2026-10-04,6,Miền Bắc,WinMart Cầu Giấy,Gia dụng,Bột giặt,2,95000,190000,Lê Hoàng Cường
+2026-10-04,6,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,4,4000,16000,Phạm Minh Đức
+2026-10-04,6,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Phô mai lát,4,45000,180000,Phạm Minh Đức
+2026-10-04,6,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Snack khoai tây,16,12000,192000,Lê Hoàng Cường
+2026-10-04,6,Miền Nam,Big C Phú Mỹ Hưng,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Tạ Thị Yến
+2026-10-04,6,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Bánh kẹo,Snack khoai tây,16,12000,192000,Trịnh Văn Sơn
+2026-10-04,6,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Kem đánh răng,1,28000,28000,Cao Hải Đăng
+2026-10-04,6,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Kem đánh răng,7,28000,196000,Dương Thị Hoa
+2026-10-04,6,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,10,4000,40000,Cao Hải Đăng
+2026-10-04,6,Miền Nam,WinMart Cần Thơ,Đồ uống,Cà phê sữa đá lon,14,15000,210000,Lương Minh Khang
+2026-10-04,6,Miền Nam,WinMart Cần Thơ,Bánh kẹo,Kẹo dẻo,9,18000,162000,Lương Minh Khang
+2026-10-04,6,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Mì gói,8,4000,32000,Đặng Thu Hà
+2026-10-04,6,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Mì gói,26,4000,104000,Đặng Thu Hà
+2026-10-04,6,Miền Trung,VinMart Huế,Thực phẩm khô,Nước mắm,2,55000,110000,Ngô Thị Lan
+2026-10-04,6,Miền Trung,WinMart Nha Trang,Gia dụng,Giấy vệ sinh,8,42000,336000,Đỗ Minh Quân
+2026-10-04,6,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Nước mắm,6,55000,330000,Đỗ Minh Quân
+2026-10-04,6,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Sữa tắm,4,75000,300000,Lý Thị Ngọc
+2026-10-05,7,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Kẹo dẻo,5,18000,90000,Võ Quốc Huy
+2026-10-05,7,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,22,5000,110000,Võ Quốc Huy
+2026-10-05,7,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Gạo ST25 (1kg),8,28000,224000,Nguyễn Văn An
+2026-10-05,7,Miền Bắc,VinMart Hoàn Kiếm,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Nguyễn Văn An
+2026-10-05,7,Miền Nam,VinMart Quận 7,Đồ uống,Trà xanh không độ,6,10000,60000,Cao Hải Đăng
+2026-10-05,7,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Dầu gội,3,89000,267000,Đặng Thu Hà
+2026-10-05,7,Miền Trung,VinMart Huế,Thực phẩm khô,Mì gói,33,4000,132000,Phan Văn Khoa
+2026-10-05,7,Miền Trung,VinMart Huế,Thực phẩm khô,Mì gói,7,4000,28000,Phan Văn Khoa
+2026-10-05,7,Miền Trung,VinMart Huế,Đồ uống,Nước suối 500ml,20,5000,100000,Ngô Thị Lan
+2026-10-05,7,Miền Trung,WinMart Nha Trang,Đồ uống,Cà phê sữa đá lon,13,15000,195000,Đỗ Minh Quân
+2026-10-05,7,Miền Trung,WinMart Nha Trang,Gia dụng,Nước rửa chén,6,35000,210000,Lý Thị Ngọc
+2026-10-06,7,Miền Bắc,Co.opmart Long Biên,Đồ uống,Cà phê sữa đá lon,7,15000,105000,Võ Quốc Huy
+2026-10-06,7,Miền Bắc,Co.opmart Long Biên,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Hoàng Thị Mai
+2026-10-06,7,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa tươi tiệt trùng,7,32000,224000,Hoàng Thị Mai
+2026-10-06,7,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Phô mai lát,6,45000,270000,Nguyễn Văn An
+2026-10-06,7,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Trà xanh không độ,7,10000,70000,Trịnh Văn Sơn
+2026-10-06,7,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa chua uống,14,8000,112000,Cao Hải Đăng
+2026-10-06,7,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Kem đánh răng,7,28000,196000,Lương Minh Khang
+2026-10-06,7,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước ngọt có ga,12,12000,144000,Vũ Thu Phương
+2026-10-06,7,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Cà phê sữa đá lon,11,15000,165000,Bùi Thanh Tùng
+2026-10-06,7,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Trà xanh không độ,13,10000,130000,Bùi Thanh Tùng
+2026-10-06,7,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,7,10000,70000,Phan Văn Khoa
+2026-10-06,7,Miền Trung,WinMart Nha Trang,Bánh kẹo,Kẹo dẻo,4,18000,72000,Đỗ Minh Quân
+2026-10-06,7,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Nước mắm,4,55000,220000,Đỗ Minh Quân
+2026-10-07,7,Miền Bắc,Co.opmart Long Biên,Đồ uống,Cà phê sữa đá lon,7,15000,105000,Võ Quốc Huy
+2026-10-07,7,Miền Bắc,Co.opmart Long Biên,Gia dụng,Nước rửa chén,5,35000,175000,Hoàng Thị Mai
+2026-10-07,7,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Sữa chua uống,17,8000,136000,Nguyễn Văn An
+2026-10-07,7,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Bánh quy bơ,7,25000,175000,Lê Hoàng Cường
+2026-10-07,7,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Phô mai lát,2,45000,90000,Lê Hoàng Cường
+2026-10-07,7,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Kẹo dẻo,3,18000,54000,Huỳnh Văn Nam
+2026-10-07,7,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Nước mắm,2,55000,110000,Mai Thu Trang
+2026-10-07,7,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Trà xanh không độ,11,10000,110000,Mai Thu Trang
+2026-10-07,7,Miền Nam,VinMart Quận 7,Bánh kẹo,Bánh quy bơ,8,25000,200000,Dương Thị Hoa
+2026-10-07,7,Miền Nam,VinMart Quận 7,Gia dụng,Giấy vệ sinh,4,42000,168000,Dương Thị Hoa
+2026-10-07,7,Miền Nam,WinMart Cần Thơ,Đồ uống,Cà phê sữa đá lon,12,15000,180000,Vũ Thu Phương
+2026-10-07,7,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa tươi tiệt trùng,9,32000,288000,Vũ Thu Phương
+2026-10-07,7,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Mì gói,11,4000,44000,Đặng Thu Hà
+2026-10-07,7,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Nước mắm,3,55000,165000,Đặng Thu Hà
+2026-10-07,7,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Nước mắm,4,55000,220000,Bùi Thanh Tùng
+2026-10-07,7,Miền Trung,VinMart Huế,Gia dụng,Giấy vệ sinh,7,42000,294000,Ngô Thị Lan
+2026-10-07,7,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Kem đánh răng,4,28000,112000,Ngô Thị Lan
+2026-10-07,7,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Sữa tắm,4,75000,300000,Ngô Thị Lan
+2026-10-07,7,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Kem đánh răng,2,28000,56000,Lý Thị Ngọc
+2026-10-07,7,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Nước mắm,2,55000,110000,Đỗ Minh Quân
+2026-10-07,7,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa chua uống,16,8000,128000,Lý Thị Ngọc
+2026-10-08,7,Miền Bắc,Co.opmart Long Biên,Chăm sóc cá nhân,Sữa tắm,2,75000,150000,Hoàng Thị Mai
+2026-10-08,7,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước suối 500ml,7,5000,35000,Phạm Minh Đức
+2026-10-08,7,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Snack khoai tây,4,12000,48000,Lê Hoàng Cường
+2026-10-08,7,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,12,5000,60000,Huỳnh Văn Nam
+2026-10-08,7,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,11,5000,55000,Huỳnh Văn Nam
+2026-10-08,7,Miền Nam,VinMart Quận 7,Bánh kẹo,Bánh quy bơ,8,25000,200000,Cao Hải Đăng
+2026-10-08,7,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,20,4000,80000,Dương Thị Hoa
+2026-10-08,7,Miền Nam,VinMart Quận 7,Gia dụng,Nước rửa chén,4,35000,140000,Dương Thị Hoa
+2026-10-08,7,Miền Nam,VinMart Quận 7,Bánh kẹo,Snack khoai tây,4,12000,48000,Dương Thị Hoa
+2026-10-08,7,Miền Nam,VinMart Quận 7,Đồ uống,Trà xanh không độ,2,10000,20000,Cao Hải Đăng
+2026-10-08,7,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Trà xanh không độ,11,10000,110000,Bùi Thanh Tùng
+2026-10-08,7,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Nước mắm,2,55000,110000,Lý Thị Ngọc
+2026-10-08,7,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Phô mai lát,6,45000,270000,Đỗ Minh Quân
+2026-10-09,7,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,14,5000,70000,Hoàng Thị Mai
+2026-10-09,7,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,26,5000,130000,Võ Quốc Huy
+2026-10-09,7,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,2,5000,10000,Võ Quốc Huy
+2026-10-09,7,Miền Bắc,VinMart Hoàn Kiếm,Bánh kẹo,Kẹo dẻo,2,18000,36000,Trần Thị Bình
+2026-10-09,7,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,8,4000,32000,Trần Thị Bình
+2026-10-09,7,Miền Bắc,VinMart Hoàn Kiếm,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Nguyễn Văn An
+2026-10-09,7,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước suối 500ml,26,5000,130000,Lê Hoàng Cường
+2026-10-09,7,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Cà phê sữa đá lon,14,15000,210000,Tạ Thị Yến
+2026-10-09,7,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Cà phê sữa đá lon,12,15000,180000,Tạ Thị Yến
+2026-10-09,7,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Bánh kẹo,Snack khoai tây,6,12000,72000,Trịnh Văn Sơn
+2026-10-09,7,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Bánh kẹo,Snack khoai tây,11,12000,132000,Trịnh Văn Sơn
+2026-10-09,7,Miền Nam,VinMart Quận 7,Thực phẩm khô,Gạo ST25 (1kg),6,28000,168000,Dương Thị Hoa
+2026-10-09,7,Miền Nam,VinMart Quận 7,Thực phẩm khô,Nước mắm,3,55000,165000,Dương Thị Hoa
+2026-10-09,7,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa chua uống,12,8000,96000,Cao Hải Đăng
+2026-10-09,7,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa tươi tiệt trùng,2,32000,64000,Dương Thị Hoa
+2026-10-09,7,Miền Nam,WinMart Cần Thơ,Đồ uống,Cà phê sữa đá lon,4,15000,60000,Vũ Thu Phương
+2026-10-09,7,Miền Nam,WinMart Cần Thơ,Đồ uống,Trà xanh không độ,5,10000,50000,Vũ Thu Phương
+2026-10-09,7,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Gạo ST25 (1kg),3,28000,84000,Đặng Thu Hà
+2026-10-09,7,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Kẹo dẻo,4,18000,72000,Đặng Thu Hà
+2026-10-09,7,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Kem đánh răng,4,28000,112000,Phan Văn Khoa
+2026-10-09,7,Miền Trung,VinMart Huế,Bánh kẹo,Snack khoai tây,12,12000,144000,Phan Văn Khoa
+2026-10-09,7,Miền Trung,WinMart Nha Trang,Đồ uống,Cà phê sữa đá lon,4,15000,60000,Đỗ Minh Quân
+2026-10-09,7,Miền Trung,WinMart Nha Trang,Bánh kẹo,Kẹo dẻo,8,18000,144000,Đỗ Minh Quân
+2026-10-10,7,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,26,4000,104000,Võ Quốc Huy
+2026-10-10,7,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Phô mai lát,4,45000,180000,Võ Quốc Huy
+2026-10-10,7,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa tươi tiệt trùng,5,32000,160000,Võ Quốc Huy
+2026-10-10,7,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Cà phê sữa đá lon,4,15000,60000,Phạm Minh Đức
+2026-10-10,7,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Cà phê sữa đá lon,11,15000,165000,Phạm Minh Đức
+2026-10-10,7,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Cà phê sữa đá lon,12,15000,180000,Tạ Thị Yến
+2026-10-10,7,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Cà phê sữa đá lon,12,15000,180000,Tạ Thị Yến
+2026-10-10,7,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Mì gói,33,4000,132000,Mai Thu Trang
+2026-10-10,7,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Sữa & đồ lạnh,Sữa chua uống,11,8000,88000,Mai Thu Trang
+2026-10-10,7,Miền Nam,VinMart Quận 7,Gia dụng,Bột giặt,2,95000,190000,Cao Hải Đăng
+2026-10-10,7,Miền Trung,VinMart Huế,Gia dụng,Nước rửa chén,2,35000,70000,Ngô Thị Lan
+2026-10-10,7,Miền Trung,WinMart Nha Trang,Gia dụng,Nước rửa chén,1,35000,35000,Lý Thị Ngọc
+2026-10-10,7,Miền Trung,WinMart Nha Trang,Đồ uống,Trà xanh không độ,4,10000,40000,Lý Thị Ngọc
+2026-10-11,7,Miền Bắc,VinMart Hoàn Kiếm,Chăm sóc cá nhân,Sữa tắm,3,75000,225000,Trần Thị Bình
+2026-10-11,7,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Cà phê sữa đá lon,2,15000,30000,Lê Hoàng Cường
+2026-10-11,7,Miền Nam,Big C Phú Mỹ Hưng,Chăm sóc cá nhân,Kem đánh răng,1,28000,28000,Huỳnh Văn Nam
+2026-10-11,7,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Bánh kẹo,Bánh quy bơ,3,25000,75000,Mai Thu Trang
+2026-10-11,7,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước ngọt có ga,3,12000,36000,Mai Thu Trang
+2026-10-11,7,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước suối 500ml,4,5000,20000,Mai Thu Trang
+2026-10-11,7,Miền Nam,WinMart Cần Thơ,Gia dụng,Nước rửa chén,6,35000,210000,Lương Minh Khang
+2026-10-11,7,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa tươi tiệt trùng,7,32000,224000,Vũ Thu Phương
+2026-10-11,7,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Snack khoai tây,3,12000,36000,Bùi Thanh Tùng
+2026-10-11,7,Miền Trung,VinMart Huế,Đồ uống,Nước ngọt có ga,4,12000,48000,Ngô Thị Lan
+2026-10-11,7,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,16,10000,160000,Ngô Thị Lan
+2026-10-11,7,Miền Trung,WinMart Nha Trang,Gia dụng,Bột giặt,1,95000,95000,Đỗ Minh Quân
+2026-10-12,8,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Bột giặt,1,95000,95000,Trần Thị Bình
+2026-10-12,8,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước suối 500ml,9,5000,45000,Phạm Minh Đức
+2026-10-12,8,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Snack khoai tây,15,12000,180000,Lê Hoàng Cường
+2026-10-12,8,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Sữa chua uống,7,8000,56000,Lê Hoàng Cường
+2026-10-12,8,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Snack khoai tây,17,12000,204000,Tạ Thị Yến
+2026-10-12,8,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Gia dụng,Bột giặt,2,95000,190000,Trịnh Văn Sơn
+2026-10-12,8,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Sữa tắm,4,75000,300000,Trịnh Văn Sơn
+2026-10-12,8,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Kem đánh răng,6,28000,168000,Dương Thị Hoa
+2026-10-12,8,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước suối 500ml,33,5000,165000,Bùi Thanh Tùng
+2026-10-12,8,Miền Trung,Co.opmart Đà Nẵng,Bánh kẹo,Snack khoai tây,9,12000,108000,Đặng Thu Hà
+2026-10-12,8,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Ngô Thị Lan
+2026-10-12,8,Miền Trung,VinMart Huế,Thực phẩm khô,Gạo ST25 (1kg),2,28000,56000,Phan Văn Khoa
+2026-10-12,8,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Kem đánh răng,8,28000,224000,Ngô Thị Lan
+2026-10-12,8,Miền Trung,VinMart Huế,Đồ uống,Nước suối 500ml,11,5000,55000,Ngô Thị Lan
+2026-10-12,8,Miền Trung,VinMart Huế,Bánh kẹo,Snack khoai tây,14,12000,168000,Phan Văn Khoa
+2026-10-12,8,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Lý Thị Ngọc
+2026-10-12,8,Miền Trung,WinMart Nha Trang,Chăm sóc cá nhân,Dầu gội,2,89000,178000,Đỗ Minh Quân
+2026-10-12,8,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,15,5000,75000,Đỗ Minh Quân
+2026-10-13,8,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,39,4000,156000,Võ Quốc Huy
+2026-10-13,8,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước ngọt có ga,18,12000,216000,Võ Quốc Huy
+2026-10-13,8,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Snack khoai tây,2,12000,24000,Hoàng Thị Mai
+2026-10-13,8,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Nước mắm,4,55000,220000,Nguyễn Văn An
+2026-10-13,8,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Gạo ST25 (1kg),5,28000,140000,Lê Hoàng Cường
+2026-10-13,8,Miền Bắc,WinMart Cầu Giấy,Thực phẩm khô,Mì gói,8,4000,32000,Lê Hoàng Cường
+2026-10-13,8,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Kem đánh răng,4,28000,112000,Trịnh Văn Sơn
+2026-10-13,8,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Kem đánh răng,8,28000,224000,Mai Thu Trang
+2026-10-13,8,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Sữa tươi tiệt trùng,6,32000,192000,Cao Hải Đăng
+2026-10-13,8,Miền Nam,WinMart Cần Thơ,Bánh kẹo,Snack khoai tây,8,12000,96000,Vũ Thu Phương
+2026-10-13,8,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Mì gói,20,4000,80000,Bùi Thanh Tùng
+2026-10-13,8,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,4,12000,48000,Đặng Thu Hà
+2026-10-13,8,Miền Trung,Co.opmart Đà Nẵng,Đồ uống,Nước ngọt có ga,12,12000,144000,Đặng Thu Hà
+2026-10-13,8,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,5,10000,50000,Phan Văn Khoa
+2026-10-14,8,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Gạo ST25 (1kg),12,28000,336000,Võ Quốc Huy
+2026-10-14,8,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước ngọt có ga,4,12000,48000,Hoàng Thị Mai
+2026-10-14,8,Miền Bắc,VinMart Hoàn Kiếm,Chăm sóc cá nhân,Dầu gội,5,89000,445000,Trần Thị Bình
+2026-10-14,8,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Giấy vệ sinh,4,42000,168000,Trần Thị Bình
+2026-10-14,8,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước suối 500ml,6,5000,30000,Trần Thị Bình
+2026-10-14,8,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Bánh quy bơ,8,25000,200000,Lê Hoàng Cường
+2026-10-14,8,Miền Nam,Big C Phú Mỹ Hưng,Gia dụng,Nước rửa chén,8,35000,280000,Huỳnh Văn Nam
+2026-10-14,8,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa chua uống,19,8000,152000,Huỳnh Văn Nam
+2026-10-14,8,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Chăm sóc cá nhân,Sữa tắm,1,75000,75000,Trịnh Văn Sơn
+2026-10-14,8,Miền Nam,VinMart Quận 7,Gia dụng,Giấy vệ sinh,5,42000,210000,Dương Thị Hoa
+2026-10-14,8,Miền Nam,VinMart Quận 7,Bánh kẹo,Snack khoai tây,6,12000,72000,Dương Thị Hoa
+2026-10-14,8,Miền Nam,VinMart Quận 7,Bánh kẹo,Snack khoai tây,11,12000,132000,Cao Hải Đăng
+2026-10-14,8,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Nước mắm,2,55000,110000,Bùi Thanh Tùng
+2026-10-14,8,Miền Trung,VinMart Huế,Đồ uống,Nước suối 500ml,20,5000,100000,Ngô Thị Lan
+2026-10-14,8,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Sữa tắm,4,75000,300000,Ngô Thị Lan
+2026-10-14,8,Miền Trung,WinMart Nha Trang,Bánh kẹo,Snack khoai tây,6,12000,72000,Đỗ Minh Quân
+2026-10-14,8,Miền Trung,WinMart Nha Trang,Sữa & đồ lạnh,Sữa chua uống,22,8000,176000,Đỗ Minh Quân
+2026-10-15,8,Miền Bắc,VinMart Hoàn Kiếm,Chăm sóc cá nhân,Kem đánh răng,2,28000,56000,Trần Thị Bình
+2026-10-15,8,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,2,4000,8000,Trần Thị Bình
+2026-10-15,8,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước ngọt có ga,7,12000,84000,Nguyễn Văn An
+2026-10-15,8,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Sữa tươi tiệt trùng,4,32000,128000,Nguyễn Văn An
+2026-10-15,8,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước ngọt có ga,4,12000,48000,Lê Hoàng Cường
+2026-10-15,8,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Trà xanh không độ,9,10000,90000,Phạm Minh Đức
+2026-10-15,8,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước ngọt có ga,20,12000,240000,Tạ Thị Yến
+2026-10-15,8,Miền Nam,Big C Phú Mỹ Hưng,Gia dụng,Nước rửa chén,9,35000,315000,Huỳnh Văn Nam
+2026-10-15,8,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Cà phê sữa đá lon,6,15000,90000,Mai Thu Trang
+2026-10-15,8,Miền Nam,VinMart Quận 7,Chăm sóc cá nhân,Kem đánh răng,9,28000,252000,Cao Hải Đăng
+2026-10-15,8,Miền Nam,VinMart Quận 7,Đồ uống,Nước suối 500ml,28,5000,140000,Dương Thị Hoa
+2026-10-15,8,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Dầu gội,5,89000,445000,Vũ Thu Phương
+2026-10-15,8,Miền Trung,Co.opmart Đà Nẵng,Sữa & đồ lạnh,Phô mai lát,6,45000,270000,Đặng Thu Hà
+2026-10-15,8,Miền Trung,WinMart Nha Trang,Đồ uống,Cà phê sữa đá lon,19,15000,285000,Đỗ Minh Quân
+2026-10-15,8,Miền Trung,WinMart Nha Trang,Gia dụng,Giấy vệ sinh,9,42000,378000,Lý Thị Ngọc
+2026-10-15,8,Miền Trung,WinMart Nha Trang,Gia dụng,Nước rửa chén,1,35000,35000,Lý Thị Ngọc
+2026-10-16,8,Miền Bắc,Co.opmart Long Biên,Đồ uống,Cà phê sữa đá lon,19,15000,285000,Hoàng Thị Mai
+2026-10-16,8,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Gạo ST25 (1kg),5,28000,140000,Võ Quốc Huy
+2026-10-16,8,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,24,4000,96000,Nguyễn Văn An
+2026-10-16,8,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Nước mắm,6,55000,330000,Trần Thị Bình
+2026-10-16,8,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Nước ngọt có ga,17,12000,204000,Nguyễn Văn An
+2026-10-16,8,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Nước rửa chén,1,35000,35000,Nguyễn Văn An
+2026-10-16,8,Miền Bắc,WinMart Cầu Giấy,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Phạm Minh Đức
+2026-10-16,8,Miền Bắc,WinMart Cầu Giấy,Chăm sóc cá nhân,Kem đánh răng,8,28000,224000,Phạm Minh Đức
+2026-10-16,8,Miền Bắc,WinMart Cầu Giấy,Gia dụng,Nước rửa chén,9,35000,315000,Lê Hoàng Cường
+2026-10-16,8,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Cà phê sữa đá lon,14,15000,210000,Tạ Thị Yến
+2026-10-16,8,Miền Nam,Big C Phú Mỹ Hưng,Chăm sóc cá nhân,Dầu gội,1,89000,89000,Tạ Thị Yến
+2026-10-16,8,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Gạo ST25 (1kg),12,28000,336000,Huỳnh Văn Nam
+2026-10-16,8,Miền Nam,Big C Phú Mỹ Hưng,Bánh kẹo,Snack khoai tây,4,12000,48000,Tạ Thị Yến
+2026-10-16,8,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Gia dụng,Giấy vệ sinh,4,42000,168000,Mai Thu Trang
+2026-10-16,8,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Thực phẩm khô,Gạo ST25 (1kg),8,28000,224000,Mai Thu Trang
+2026-10-16,8,Miền Nam,VinMart Quận 7,Gia dụng,Nước rửa chén,1,35000,35000,Dương Thị Hoa
+2026-10-16,8,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Mì gói,30,4000,120000,Bùi Thanh Tùng
+2026-10-16,8,Miền Trung,Co.opmart Đà Nẵng,Thực phẩm khô,Nước mắm,1,55000,55000,Bùi Thanh Tùng
+2026-10-16,8,Miền Trung,VinMart Huế,Chăm sóc cá nhân,Dầu gội,4,89000,356000,Phan Văn Khoa
+2026-10-16,8,Miền Trung,VinMart Huế,Gia dụng,Nước rửa chén,8,35000,280000,Ngô Thị Lan
+2026-10-16,8,Miền Trung,VinMart Huế,Sữa & đồ lạnh,Sữa tươi tiệt trùng,12,32000,384000,Ngô Thị Lan
+2026-10-17,8,Miền Bắc,Co.opmart Long Biên,Chăm sóc cá nhân,Dầu gội,2,89000,178000,Hoàng Thị Mai
+2026-10-17,8,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,22,4000,88000,Võ Quốc Huy
+2026-10-17,8,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Mì gói,25,4000,100000,Hoàng Thị Mai
+2026-10-17,8,Miền Bắc,Co.opmart Long Biên,Thực phẩm khô,Nước mắm,1,55000,55000,Hoàng Thị Mai
+2026-10-17,8,Miền Bắc,Co.opmart Long Biên,Gia dụng,Nước rửa chén,5,35000,175000,Hoàng Thị Mai
+2026-10-17,8,Miền Bắc,Co.opmart Long Biên,Sữa & đồ lạnh,Sữa tươi tiệt trùng,9,32000,288000,Võ Quốc Huy
+2026-10-17,8,Miền Bắc,Co.opmart Long Biên,Chăm sóc cá nhân,Sữa tắm,4,75000,300000,Võ Quốc Huy
+2026-10-17,8,Miền Bắc,VinMart Hoàn Kiếm,Sữa & đồ lạnh,Sữa tươi tiệt trùng,9,32000,288000,Nguyễn Văn An
+2026-10-17,8,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Nước suối 500ml,15,5000,75000,Lê Hoàng Cường
+2026-10-17,8,Miền Bắc,WinMart Cầu Giấy,Sữa & đồ lạnh,Phô mai lát,7,45000,315000,Lê Hoàng Cường
+2026-10-17,8,Miền Bắc,WinMart Cầu Giấy,Bánh kẹo,Snack khoai tây,19,12000,228000,Lê Hoàng Cường
+2026-10-17,8,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Nước suối 500ml,24,5000,120000,Tạ Thị Yến
+2026-10-17,8,Miền Nam,Co.opmart Nguyễn Đình Chiểu,Đồ uống,Nước ngọt có ga,2,12000,24000,Mai Thu Trang
+2026-10-17,8,Miền Nam,VinMart Quận 7,Thực phẩm khô,Gạo ST25 (1kg),5,28000,140000,Dương Thị Hoa
+2026-10-17,8,Miền Nam,VinMart Quận 7,Thực phẩm khô,Nước mắm,6,55000,330000,Cao Hải Đăng
+2026-10-17,8,Miền Nam,VinMart Quận 7,Sữa & đồ lạnh,Phô mai lát,5,45000,225000,Dương Thị Hoa
+2026-10-17,8,Miền Nam,VinMart Quận 7,Đồ uống,Trà xanh không độ,4,10000,40000,Cao Hải Đăng
+2026-10-17,8,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa chua uống,2,8000,16000,Lương Minh Khang
+2026-10-17,8,Miền Nam,WinMart Cần Thơ,Chăm sóc cá nhân,Sữa tắm,4,75000,300000,Vũ Thu Phương
+2026-10-17,8,Miền Trung,VinMart Huế,Gia dụng,Giấy vệ sinh,5,42000,210000,Phan Văn Khoa
+2026-10-17,8,Miền Trung,VinMart Huế,Đồ uống,Nước suối 500ml,2,5000,10000,Phan Văn Khoa
+2026-10-17,8,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Mì gói,13,4000,52000,Đỗ Minh Quân
+2026-10-17,8,Miền Trung,WinMart Nha Trang,Thực phẩm khô,Mì gói,47,4000,188000,Đỗ Minh Quân
+2026-10-17,8,Miền Trung,WinMart Nha Trang,Đồ uống,Nước suối 500ml,7,5000,35000,Lý Thị Ngọc
+2026-10-17,8,Miền Trung,WinMart Nha Trang,Bánh kẹo,Snack khoai tây,8,12000,96000,Đỗ Minh Quân
+2026-10-18,8,Miền Bắc,Co.opmart Long Biên,Chăm sóc cá nhân,Kem đánh răng,1,28000,28000,Hoàng Thị Mai
+2026-10-18,8,Miền Bắc,Co.opmart Long Biên,Bánh kẹo,Kẹo dẻo,4,18000,72000,Hoàng Thị Mai
+2026-10-18,8,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước ngọt có ga,12,12000,144000,Hoàng Thị Mai
+2026-10-18,8,Miền Bắc,Co.opmart Long Biên,Đồ uống,Nước suối 500ml,19,5000,95000,Hoàng Thị Mai
+2026-10-18,8,Miền Bắc,Co.opmart Long Biên,Đồ uống,Trà xanh không độ,19,10000,190000,Võ Quốc Huy
+2026-10-18,8,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Cà phê sữa đá lon,14,15000,210000,Trần Thị Bình
+2026-10-18,8,Miền Bắc,VinMart Hoàn Kiếm,Gia dụng,Giấy vệ sinh,6,42000,252000,Nguyễn Văn An
+2026-10-18,8,Miền Bắc,VinMart Hoàn Kiếm,Thực phẩm khô,Mì gói,20,4000,80000,Nguyễn Văn An
+2026-10-18,8,Miền Bắc,VinMart Hoàn Kiếm,Đồ uống,Trà xanh không độ,6,10000,60000,Nguyễn Văn An
+2026-10-18,8,Miền Bắc,WinMart Cầu Giấy,Đồ uống,Cà phê sữa đá lon,15,15000,225000,Phạm Minh Đức
+2026-10-18,8,Miền Nam,Big C Phú Mỹ Hưng,Thực phẩm khô,Nước mắm,2,55000,110000,Huỳnh Văn Nam
+2026-10-18,8,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa chua uống,15,8000,120000,Huỳnh Văn Nam
+2026-10-18,8,Miền Nam,Big C Phú Mỹ Hưng,Sữa & đồ lạnh,Sữa chua uống,17,8000,136000,Huỳnh Văn Nam
+2026-10-18,8,Miền Nam,Big C Phú Mỹ Hưng,Đồ uống,Trà xanh không độ,5,10000,50000,Tạ Thị Yến
+2026-10-18,8,Miền Nam,VinMart Quận 7,Đồ uống,Cà phê sữa đá lon,14,15000,210000,Dương Thị Hoa
+2026-10-18,8,Miền Nam,VinMart Quận 7,Thực phẩm khô,Gạo ST25 (1kg),2,28000,56000,Dương Thị Hoa
+2026-10-18,8,Miền Nam,VinMart Quận 7,Thực phẩm khô,Mì gói,42,4000,168000,Cao Hải Đăng
+2026-10-18,8,Miền Nam,WinMart Cần Thơ,Đồ uống,Nước ngọt có ga,18,12000,216000,Vũ Thu Phương
+2026-10-18,8,Miền Nam,WinMart Cần Thơ,Sữa & đồ lạnh,Sữa chua uống,13,8000,104000,Lương Minh Khang
+2026-10-18,8,Miền Nam,WinMart Cần Thơ,Đồ uống,Trà xanh không độ,24,10000,240000,Vũ Thu Phương
+2026-10-18,8,Miền Trung,Co.opmart Đà Nẵng,Chăm sóc cá nhân,Kem đánh răng,8,28000,224000,Bùi Thanh Tùng
+2026-10-18,8,Miền Trung,VinMart Huế,Đồ uống,Trà xanh không độ,19,10000,190000,Phan Văn Khoa
+2026-10-18,8,Miền Trung,WinMart Nha Trang,Bánh kẹo,Snack khoai tây,18,12000,216000,Lý Thị Ngọc
